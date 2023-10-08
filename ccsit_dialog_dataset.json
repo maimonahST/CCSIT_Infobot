@@ -1,0 +1,1472 @@
+{
+    "introduction": [
+      {
+        "question": "What is the College of Computer Science and Information Technology at Imam Abdulrahman bin Faisal University known for?",
+        "answer": "The College is known for providing an innovative computer science curriculum since its establishment in 2010."
+      },
+      {
+        "question": "What are the undergraduate programs offered by the College?",
+        "answer": "The College offers four undergraduate programs: Bachelor of Science in Computer Science, Bachelor of Science in Computer Information Systems, Bachelor of Science in Cyber Security and Digital Forensics, and Bachelor of Science in Artificial Intelligence."
+      },
+      {
+        "question": "Is there a postgraduate program available at the College?",
+        "answer": "Yes, there is a Master of Science in Computer Science (MSCS) program available, with special majors in Big Data and Cloud Computing, Information Security, and Software Engineering."
+      },
+      {
+        "question": "What elective courses are available to students in the College's programs?",
+        "answer": "Students can choose from a variety of advanced topics, including Data Mining and Warehousing, Modeling and Simulation, Expert Systems, Advanced Programming Languages, and many more."
+      },
+      {
+        "question": "What language is used for teaching and learning at the College?",
+        "answer": "The College adopts the English language as the language of teaching and learning."
+      }
+    ],
+    "vision": [
+      {
+        "question": "What is the vision of the College?",
+        "answer": "The vision of the College is to be a leading computing college at national, regional, and global levels."
+      }
+    ],
+    "mission": [
+      {
+        "question": "What is the mission of the College?",
+        "answer": "The mission of the College is to provide quality computing education, discovery, and professional services with community engagements."
+      }
+    ],
+    "goals": [
+      {
+        "question": "What are some of the goals of the College?",
+        "answer": "The goals include offering quality education in the computing domain, stimulating collaborative research, facilitating community services, recruiting high-caliber faculty, improving infrastructure, and more."
+      }
+    ],
+    "values": [
+      {
+        "question": "What are the core values of the College?",
+        "answer": "The core values of the College include loyalty, excellence, teamwork, transparency, diversity, creativity, and social responsibility."
+      }
+    ],
+    "welcome_message": [
+          {
+            "question": "What is the name of the college that Dr. Abdullah Mohammed Almuhaideb welcomes you to?",
+            "answer": "Dr. Abdullah Mohammed Almuhaideb welcomes you to the College of Computer Science and Information Technology (CCSIT) at Imam Abdulrahman Bin Faisal University."
+          },
+          {
+            "question": "When was the CCSIT established?",
+            "answer": "CCSIT has been providing high-quality education since its establishment in 2010."
+          },
+          {
+            "question": "What is the strategic aim of CCSIT?",
+            "answer": "The strategic aim is to be a leading college with capable graduates who contribute to technology development and transfer, research, and innovation for the knowledge-based economy."
+          },
+          {
+            "question": "What values and skills does CCSIT aim to instill in its students?",
+            "answer": "CCSIT aims to instill values and skills such as leadership, high standards, creativity, teamwork, lifelong learning, and a strong sense of future career."
+          },
+          {
+            "question": "How many academic departments are there in CCSIT?",
+            "answer": "CCSIT consists of four academic departments."
+          },
+          {
+            "question": "What are the four Bachelor of Science (BS) majors offered by CCSIT?",
+            "answer": "The four majors are Computer Science, Computer Information Systems, Cyberspace Security and Digital Forensics, and Artificial Intelligence."
+          },
+          {
+            "question": "What type of degrees are offered in Computer Science at CCSIT?",
+            "answer": "CCSIT offers both Bachelor of Science (BS) and Master of Science (MS) degrees in Computer Science."
+          }
+        ],
+        "accreditation": [
+          {
+            "question": "How does CCSIT ensure the quality of its academic programs?",
+            "answer": "CCSIT continuously reviews its academic programs based on feedback from stakeholders, and it applies both local (NCAAA) and international (ABET) academic accreditation standards to improve the quality of education."
+          }
+        ],
+        "contact_information": [
+          {
+            "question": "How can you contact Dr. Abdullah Mohammed Almuhaideb?",
+            "answer": "You can contact Dr. Abdullah Mohammed Almuhaideb at amalmuhaideb@iau.edu.sa."
+          }
+    ],
+    
+    "vice_deanship_teaching_and_learning": [
+        {
+          "question": "What is the role of the Vice Deanship in the College?",
+          "answer": "The Vice Deanship assists the college dean in supervising the teaching and learning process, implementing student-related policies and programs, and supporting educational services."
+        },
+        {
+          "question": "What is the goal of the Vice Deanship regarding students?",
+          "answer": "The Vice Deanship aims to create an academic environment conducive to learning and innovation and provides support for students, including academic advising."
+        }
+      ],
+      "vice_deanship_development_and_community_partnership": [
+        {
+          "question": "What are the main goals of the Vice Deanship for Development and Community Partnership?",
+          "answer": "The goals include continuous development, community partnerships, applying international quality standards, and promoting social responsibility through various activities."
+        },
+        {
+          "question": "What academic and administrative units are part of the Vice Deanship?",
+          "answer": "The Vice Deanship includes units such as the Academic Accreditation Unit, Academic Program Development Unit, Development and Training Unit, Alumni Unit, Information Technology Unit, and Community Service Unit."
+        }
+      ],
+      "vice_deanship_scientific_research_and_innovation": [
+        {
+          "question": "What is the role of the Vice Deanship for Scientific Research and Innovation?",
+          "answer": "It assists in supervising the progress of postgraduate studies, managing related units, and tracking the execution of strategic plans. It focuses on research as a driver of innovation and growth."
+        },
+        {
+          "question": "What does the Vice Deanship do regarding graduate students' scholarships and scientific research?",
+          "answer": "It stays informed about matters related to graduate students' scholarships and scientific research throughout their studies."
+        },
+        {
+          "question": "How can you contact the Vice Dean for Scientific Research and Innovation?",
+          "answer": "You can contact the Vice Dean for Scientific Research and Innovation at Tel: 0133335451 or Email: ccsit.adgssr@iau.edu.sa."
+        }
+    ],
+    "computer_science_department": [
+        {
+          "question": "When was the Department of Computer Science established?",
+          "answer": "The Department of Computer Science has been providing its curriculum since its establishment in 2010."
+        },
+        {
+          "question": "What programs does the Computer Science Department offer?",
+          "answer": "The Department offers a Bachelor of Science degree in Computer Science (CS), a Bachelor of Science degree in Cyber Security and Digital Forensics (CYS), and a Master of Science in Computer Science (MSCS)."
+        }
+      ],
+      "computer_information_systems_department": [
+        {
+          "question": "What is the focus of the Department of Computer Information Systems (CIS)?",
+          "answer": "The CIS Department focuses on providing its majors with a solid foundation in research and analyses, expertise in designing systems, creating and protecting databases and networks."
+        },
+        {
+          "question": "What does the Bachelor of Science in Computer Information Systems prepare graduates for?",
+          "answer": "The program prepares graduates for professional careers in the business world and equips them to tackle academic challenges in graduate study."
+        }
+      ],
+      "computer_engineering_department": [
+        {
+          "question": "What is the goal of the Computer Engineering (CE) department?",
+          "answer": "The CE department aims to prepare graduates for developing intelligent information systems, acquiring knowledge and skills in computer science, information processing technology, and mastering the fundamentals of mathematics and natural sciences."
+        },
+        {
+          "question": "What program does the Computer Engineering department offer?",
+          "answer": "The department offers a Bachelor of Science in Artificial Intelligence (AI) program."
+        }
+      ],
+      "networks_and_communications_department": [
+        {
+          "question": "What is the role of the Networks and Communications Department?",
+          "answer": "The department contributes to strengthening the digital infrastructure and cybersecurity, offering a Bachelor of Science in Cybersecurity and Digital Forensics."
+        },
+        {
+          "question": "What notable achievement did the Bachelor of Science in Cybersecurity and Digital Forensics program receive?",
+          "answer": "The program received (ABET) accreditation as the first program in cybersecurity to achieve this in the Kingdom."
+        }
+      ],
+      "CS_department_info": [
+        {
+          "question": "When was the Department of Computer Science established?",
+          "answer": "The Department of Computer Science has been offering state-of-the-art computer science education since its establishment in 2010."
+        },
+        {
+          "question": "What programs does the Department of Computer Science offer?",
+          "answer": "The department offers both undergraduate and postgraduate programs: a Bachelor of Science in Computer Science (BSCS) and a Master of Science in Computer Science (MSCS)."
+        }
+      ],
+      "CS_vision": [
+        {
+          "question": "What is the vision of the Department of Computer Science?",
+          "answer": "The vision is to be a distinguished computer science program for quality education, research, and community services at national, regional, and international levels."
+        }
+      ],
+      "CS_mission": [
+        {
+          "question": "What is the mission of the Department of Computer Science?",
+          "answer": "The mission is to offer a quality education in various domains of Computer Science, prepare students for professional careers and lifelong learning, enhance problem-solving skills, and instill a sense of responsibility towards serving their community, society, and the nation."
+        }
+      ],
+      "graduate_attributes": [
+        {
+          "question": "What are the Graduate Attributes (PGA) of the department?",
+          "answer": "The Graduate Attributes include being ethically and socially responsible (PGA1), critical thinking and problem solver (PGA2), effective communicator and team player (PGA3), a lifelong learner (PGA4), and a good practitioner of Computer Science and related technology (PGA5)."
+        }
+      ],
+      "program_educational_objectives": [
+        {
+          "question": "What are the Program Educational Objectives (PEO) for graduates of the Bachelor of Science in Computer Science?",
+          "answer": "Graduates should be able to apply computing knowledge and skills to design and implement solutions, contribute effectively as individuals, team members, and leaders, demonstrate ethical and social values in their professional practices, and engage in lifelong learning, higher education, career growth, and community service."
+        }
+      ],
+      "students_outcomes": [
+        {
+          "question": "What are the Student Outcomes for the department?",
+          "answer": "The Student Outcomes include explaining fundamental concepts and theories, analyzing complex computing problems, designing and implementing solutions, effective communication, recognizing professional responsibilities and ethical principles, functioning effectively in teams, and applying computer science theory and software development fundamentals to produce solutions."
+        }
+      ],
+      "undergraduate_programs": [
+        {
+          "question": "What undergraduate program does the department offer?",
+          "answer": "The department offers a Bachelor of Science in Computer Science (CS)."
+        }
+      ],
+      "postgraduate_programs": [
+        {
+          "question": "What postgraduate program does the department offer?",
+          "answer": "The department offers a Master of Science in Computer Science."
+        }
+      ],
+      "abet_accreditation": [
+        {
+          "question": "Is the program accredited by ABET?",
+          "answer": "There is no specific information provided about ABET accreditation in the content."
+        }
+      ],"computer_information_systems_department": [
+        {
+          "question": "What is the focus of the Department of Computer Information Systems (CIS)?",
+          "answer": "The CIS Department is committed to providing its majors with a solid foundation in research and analysis, expertise in designing systems, and skills for creating and protecting databases and networks."
+        },
+        {
+          "question": "What type of program is the Bachelor of Science in Computer Information Systems?",
+          "answer": "The program is a rigorous one that prepares graduates for professional careers in the business world and equips them to tackle academic challenges in graduate study."
+        },
+        {
+          "question": "What undergraduate program does the department offer?",
+          "answer": "The department offers a Bachelor of Science in Computer Information Systems (CIS)."
+        },
+        {
+          "question": "What postgraduate program does the department offer?",
+          "answer": "The department offers a Master of Science in Information Systems and Data Analytics."
+        }
+      ],
+      "computer_engineering_department": [
+        {
+          "question": "What is the focus of the Computer Engineering (CE) department?",
+          "answer": "The CE department focuses on preparing graduates for developing intelligent information systems, acquiring knowledge and skills in computer science, information processing technology, and mastering the fundamentals of mathematics and natural sciences."
+        },
+        {
+          "question": "What undergraduate program does the department offer?",
+          "answer": "The department offers a Bachelor of Science in Artificial Intelligence."
+        }
+      ],
+      "networks_and_communications_department": [
+        {
+          "question": "What is the focus of the Department of Networks and Communications?",
+          "answer": "The department prepares well-qualified specialists with research and analysis skills to deal with threats that can compromise national and global security."
+        },
+        {
+          "question": "What notable accreditation does the Cyber Security and Digital Forensics program have?",
+          "answer": "The program is proud to offer the first ABET-accredited Cyber Security and Digital Forensics program outside the United States."
+        },
+        {
+          "question": "What are some major courses in the Cyber Security and Digital Forensics program?",
+          "answer": "Major courses include fundamentals of cybersecurity, Mathematical Foundations of Information Security, Information System Audit, Network Security, Digital Evidence Analysis, and more."
+        },
+        {
+          "question": "What are some career opportunities for graduates of the Cyber Security and Digital Forensics program?",
+          "answer": "Career opportunities include roles such as Forensic Specialist, Cyber Security Consultant, Incident and Threat Manager, and more."
+        },
+        {
+          "question": "What undergraduate program does the department offer?",
+          "answer": "The department offers a Bachelor of Science in Cyber Security and Digital Forensics (CYS)."
+        }
+      ],
+      "programs": [
+        {
+          "question": "What are the undergraduate programs offered by the College?",
+          "answer": "Undergraduate programs include Bachelor of Science in Artificial Intelligence, Bachelor of Science in Computer Information Systems (CIS), Bachelor of Science in Computer Science (CS), and Bachelor of Science in Cyber Security and Digital Forensics (CYS)."
+        },
+        {
+          "question": "What are the postgraduate programs offered by the College?",
+          "answer": "Postgraduate programs include Master of Science in Computer Science (MS.c) and Master of Science in Information Systems and Data Analytics (MSc)."
+        } 
+      ],
+      "chair_info": [
+        {
+          "question": "When was the Saudi Aramco Chair for Cyber Security established?",
+          "answer": "The chair was established on 1/5/1442 AH corresponding to 16/12/2020 AD in the College of Computer Science and Information Technology at Imam Abdul Rahman bin Faisal University, funded by Saudi Aramco for a period of three years."
+        },
+        {
+          "question": "Who is the financier's representative to the chair?",
+          "answer": "The financier's representative to the chair is M. Amr El-Sherbiny."
+        }
+      ],
+      "vision": [
+        {
+          "question": "What is the vision of the Saudi Aramco Chair for Cyber Security?",
+          "answer": "The vision is to be a leading chair that achieves excellence locally, regionally, and globally in the field of cybersecurity."
+        }
+      ],
+      "mission": [
+        {
+          "question": "What is the mission of the chair?",
+          "answer": "The mission is to provide creative knowledge, research, and professional services in an effective community partnership in the field of cybersecurity."
+        }
+      ],
+      "values": [
+        {
+          "question": "What values does the chair uphold?",
+          "answer": "The chair upholds values of excellence, commitment, teamwork, diversity, creativity, and social responsibility."
+        }
+      ],
+      "goals": [
+        {
+          "question": "What are the goals of the chair?",
+          "answer": "The goals include promoting research, innovation, and technology transfer in cybersecurity management and engineering, providing cybersecurity training to the academic, industrial, and non-professional community, and assessing the cybersecurity needs of the community and providing solutions."
+        }
+      ],
+      "sponsor_website": [
+        {
+          "question": "Where can you find more information about the sponsor, Saudi Aramco?",
+          "answer": "You can find more information on the sponsor's website: [Saudi Aramco](https://www.aramco.com/en/who-we-are/overview)."
+        }
+      ],
+      "awareness_about_cyber_threat": [
+        {
+          "question": "Why is creating awareness about the cyber threat important?",
+          "answer": "Creating awareness about the cyber threat is essential in a world where everyone is connected to the internet. The Saudi Aramco Cybersecurity Chair aims to promote research, innovation, and technology transfer in the field of cybersecurity management and engineering."
+        },
+        {
+          "question": "What is the goal of the Saudi Aramco Cybersecurity Chair collaboration initiative?",
+          "answer": "The goal is to attract distinguished researchers locally and internationally to encourage joint action, achieve integration, and maintain the security and future of Saudi Arabia following its ambitious vision 2030."
+        },
+        {
+          "question": "How does the chair contribute to the partnership between the University and Saudi Aramco?",
+          "answer": "The establishment of the chair strengthens the partnership between the University and Saudi Aramco by supporting academic programs, conducting high-quality scientific research, and enhancing cybersecurity skills. It also promotes intellectual investment and excellence in the field of Cybersecurity."
+        },
+        {
+          "question": "What are some activities and programs conducted by the chair?",
+          "answer": "The chair conducts activities such as authoring and translating books, studies, research, organizing scientific events, and providing specialized advisory services. It also focuses on community awareness and education programs."
+        }
+      ],
+      "chair_contact": [
+        {
+          "question": "Who is the author of the provided information?",
+          "answer": "The information was provided by Dr. Abdullah Mohammed Almuhaideb."
+        }
+      ],
+        "chair_supervisor": [
+            {
+            "question": "Who is the supervisor of the Chair?",
+            "answer": "Dr. Abdullah Mohammed Almuhaideb"
+            }
+        ],
+        "chair_professor": [
+            {
+            "question": "Who is the Chair Professor?",
+            "answer": "The offer and visa have been submitted, pending the completion of the contracting procedures."
+            }
+        ],
+        "advisers": [
+            {
+            "question": "Who are the advisers associated with the Chair?",
+            "answer": "The advisers include Dr. Abdullah A. Alqahtani, Dr. Malak S. Aljabri, and Dr. Khalid A. Alissa."
+            }
+        ],
+        "research_principal": [
+            {
+            "question": "Who are the research principals?",
+            "answer": "The research principals include Dr. Dina A. Alabbad, Dr. Sumayh Aljameel, Dr. Amal Alahmadi, Dr. May I. Aldossary, Dr. Mohammed Al-Qahtani, Dr. Samiha Brahimi, Dr. Saqib Saeed, Dr. Nazar A. Saqib, Dr. Abdulrahman ALHARBY, Dr. Rashid Zaghrouba, Dr. Rami Mustafa, Dr. Fahad al-Haidari, Dr. Naya Naji, and Dr. Maryam Ahmed."
+            }
+        ],
+        "research_associate": [
+            {
+            "question": "Who are the research associates?",
+            "answer": "The research associates include Dr. S.O. Olatunji (Aadam), Dr. Nasro min-Allah, Dr. Nehad M. Ibrahim, Dr. Atta Rahman, Dr. Gumathi Krishna, Mr. Saad A. Alharthi, Ms. Reem Al-Assaf, Mr. Hussein al-Attas, Ms. Malak K. AlFosail, Ms. Maryam M. Aldossary, and M. Ghadir Al-Azman."
+            }
+        ],
+        "undergraduate_students": [
+            {
+            "question": "Who participates in the undergraduate program?",
+            "answer": "A group of outstanding students participates."
+            }
+        ],
+        "graduate_students": [
+            {
+            "question": "Who participates in the graduate program?",
+            "answer": "A group of outstanding students participates."
+            }
+        ],
+        "secretariat": [
+            {
+            "question": "Who is responsible for the secretariat?",
+            "answer": "Mr. Yousof AlMunsour"
+            }
+        ],
+        "accountant": [
+            {
+            "question": "Who is the accountant?",
+            "answer": "Mr. Hussein Al-Shawkar"
+            }
+        ],
+        "other_employees": [
+            {
+            "question": "Who are the other employees associated with the Chair?",
+            "answer": "The other employees include Eng. Omar Al-Harbi, Mr. Hussein Al-Dabous, and Mr. Hussein Alkhamis."
+            }
+        ],
+        "supervisor": [
+            {
+            "question": "Who is the supervisor of the Scientific Research and Publishing Initiative?",
+            "answer": "Dr. Abdullah Ali Alqahtani"
+            },
+            {
+            "question": "What is the email address of Dr. Abdullah Ali Alqahtani?",
+            "answer": "Email: aamqahtani@iau.edu.sa"
+            }
+        ],
+        "scientific_production": [
+            {
+            "question": "What is the main objective of the scientific chair within this initiative?",
+            "answer": "The main objective is to promote scientific research in the field of cybersecurity and support publication in open access journals."
+            },
+            {
+            "question": "Who are the chair and members of the scientific production initiative?",
+            "answer": "Chair: Dr. Rachid Zagrouba (Email: rmzagrouba@iau.edu.sa)"
+            },
+            {
+            "question": "What are the categories for covering the costs of publishing in journals?",
+            "answer": "Category 1: Contains the first quarter 'Q1' and is the highest 25% of scientific journals in this discipline according to the impact factor. Category 2: Contains Q2 and represents 25% of journals in the highest impact factor following Q1."
+            },
+            {
+            "question": "How many funding requests did the Chair receive during the first six months of its launch?",
+            "answer": "The Chair received 23 funding requests during the first six months of its launch."
+            },
+            {
+            "question": "How many research papers were published in Q1 and Q2- journals during the same period?",
+            "answer": "Seven research papers were published in Q1 and Q2- journals during the first six months of the chair's launch."
+            },
+            {
+            "question": "What should be the affiliation for papers published and funded by the scientific chair?",
+            "answer": "The affiliation should be: 'SAUDI ARAMCO Cybersecurity Chair, College of Computer Science and Information Technology, Imam Abdulrahman Bin Faisal University, P.O. Box 1982, Dammam 31441, Saudi Arabia'."
+            }
+        ],
+        "scholarships_for_graduate_students": [
+            {
+            "question": "How does the Cybersecurity Chair promote scientific research in the field of cybersecurity through scholarships?",
+            "answer": "The Cybersecurity Chair offers two scholarships to students enrolled in the cybersecurity path in the master's program in the Department of Computer Science. Each grant covers 50% of tuition fees and aims to attract distinguished graduate students in the field of Cybersecurity."
+            },
+            {
+            "question": "Who is responsible for scholarships within this initiative?",
+            "answer": "Chair: Dr. Rami Mustafa (Email: rmmohammad@iau.edu.sa)"
+            }
+        ],
+        "lecture_series_and_workshops": [
+            {
+            "question": "What are the main objectives of the Cybersecurity Chair regarding lecture series and workshops?",
+            "answer": "The main objectives are to enrich the knowledge content in the field of cybersecurity for interested specialists and non-specialists, host specialized lectures, and organize annual training workshops for information security professionals."
+            },
+            {
+            "question": "Who is responsible for lecture series and workshops within this initiative?",
+            "answer": "Chair: Dr. Nasro min-Allah (Email: nabdullatief@iau.edu.sa)"
+            }
+        ],
+        "patents_and_editing_books": [
+            {
+            "question": "What are the goals of the Cybersecurity Chair regarding patents and editing books?",
+            "answer": "The chair intends to improve research productivity by patenting, editing books, editing special issues in leading journals, and organizing special sessions at international conferences."
+            },
+            {
+            "question": "Who is responsible for patents and editing books within this initiative?",
+            "answer": "Chair: Dr. Saqib Saeed (Email: sbsaed@iau.edu.sa)"
+            }
+        ],
+        "supervisor": [
+        {
+            "question": "Who is the supervisor of the Studies and Development Initiative?",
+            "answer": "Dr. Malak Aljabri"
+        },
+        {
+            "question": "What is the email address of Dr. Malak Aljabri?",
+            "answer": "Email: msaljabri@iau.edu.sa"
+        }
+        ],
+        "digital_newsletter": [
+        {
+            "question": "What is the purpose of the digital newsletter within this initiative?",
+            "answer": "The digital newsletter provides an electronic communication channel for cybersecurity experts and the public. It raises awareness about cyberattacks, safety in the cyber world, publishes news, achievements of cybersecurity students, and recent research publications."
+        },
+        {
+            "question": "Who are the chair and members of the digital newsletter initiative?",
+            "answer": "Chair: Dr. Maryam Ahmed (Email: mtahmed@iau.edu.sa) and Ms. Maryam Aldossary (Email: mmsaldossary@iau.edu.sa)"
+        }
+        ],
+        "enriching_arabic_cybersecurity_content": [
+        {
+            "question": "What is the goal of enriching Arabic cybersecurity content within this initiative?",
+            "answer": "The goal is to enrich Arabic content in the field of cybersecurity by translating important books in the field to Arabic to support Arabic sources for Arab readers."
+        },
+        {
+            "question": "Who are the chair and members of the enriching Arabic cybersecurity content initiative?",
+            "answer": "Chair: Dr. Gomathi Krishna (Email: gKrishna@iau.edu.sa) and Ms. Reem Alassaf (Email: raalassaf@iau.edu.sa)"
+        },
+        {
+            "question": "How can interested translators apply to support this initiative?",
+            "answer": "Interested translators can apply by sending the application to email: ccsit.achair@iau.edu.sa."
+        }
+        ],
+        "equipping_cybersecurity_lab": [
+        {
+            "question": "What is one of the most important initiatives within this initiative?",
+            "answer": "One of the most important initiatives is to build laboratories to support the outcomes of the cybersecurity program."
+        },
+        {
+            "question": "Who are the chair and members of the equipping cybersecurity lab initiative?",
+            "answer": "Chair: Dr. Fahd Alhaidari (Email: faalhaidari@iau.edu.sa) and Dr. Amal Alahmadi (Email: aaalahmadi@iau.edu.sa)"
+        },
+        {
+            "question": "What is the goal of creating a virtual laboratory within this initiative?",
+            "answer": "The goal is to create a virtual laboratory where students, trainees, and researchers can conduct online experiments and training in various aspects of cybersecurity."
+        }
+        ],
+        "website_design_and_annual_report": [
+        {
+            "question": "What is the purpose of designing a website within this initiative?",
+            "answer": "The purpose is to document all initiatives, activities, and scientific results of the chair, making them accessible to users and updated periodically with the latest developments."
+        },
+        {
+            "question": "Who are the chair and members of the website design and annual report initiative?",
+            "answer": "Chair: Dr. Dina Alabbad (Email: daalabbad@iau.edu.sa) and Mr. Yousof AlMunsour (Email: yzalmunsour@iau.edu.sa)"
+        },
+        {
+            "question": "How are the activities and achievements of the chair documented?",
+            "answer": "All activities, outputs, and events of the chair are documented in an annual report delivered to the financier."
+        }
+        ],
+        "measuring_beneficiary_satisfaction": [
+        {
+            "question": "What does the Beneficiary Satisfaction Measurement Initiative support?",
+            "answer": "It supports improvements and development of the quality of all chaired initiatives from workshops, training courses, graduate grant programs, advisory committees, community services, and periodic competitions."
+        },
+        {
+            "question": "Who are the chair and members of the measuring beneficiary satisfaction initiative?",
+            "answer": "Chair: Dr. Sumayah Aljameel (Email: saljameel@iau.edu.sa) and Dr. Nehad M. Ibrahim (Email: nmaIbrahim@iau.edu.sa)"
+        },
+        {
+            "question": "What are the main objectives of this initiative?",
+            "answer": "The main objectives include creating and distributing questionnaires for the beneficiaries of the initiatives, analyzing the results, and identifying strengths and weaknesses for improvement and quality."
+        }
+        ],
+        "courses_development": [
+        {
+            "question": "What is the goal of the courses development initiative within this initiative?",
+            "answer": "The goal is to develop scientific curricula by establishing local and international cooperation to prepare and teach advanced courses in cybersecurity in collaboration with other areas such as artificial intelligence."
+        },
+        {
+            "question": "Who are the chair and members of the courses development initiative?",
+            "answer": "Chair: Dr. Amal Alahmadi (Email: aaalahmadi@iau.edu.sa) and Dr. Malak Aljabri (Email: msaljabri@iau.edu.sa)"
+        }
+        ],
+        "supervisors": [
+            {
+              "question": "Who are the supervisors of the Scientific Cooperation and Exchange of Experiences Initiative?",
+              "answer": "Dr. Khalid Alissa (Email: kaalissa@iau.edu.sa) and Dr. Abdullah Almuhaideb (Email: amAlmuhaideb@iau.edu.sa)"
+            }
+          ],
+          "building_communication_channels": [
+            {
+              "question": "What is the goal of the initiative regarding communication channels?",
+              "answer": "The goal is to create collaborative channels with cybersecurity researchers and research centers globally to strengthen cooperation in investigating the objectives of Saudi Aramco's cybersecurity chair."
+            },
+            {
+              "question": "Who are the chair and members of this initiative?",
+              "answer": "Chair: Dr. Sunday Olatunji (Email: osunday@iau.edu.sa) and Dr. Mohammed Alqahtani (Email: maqhtani@iau.edu.sa)"
+            }
+          ],
+          "community_service_and_school_visits": [
+            {
+              "question": "What is the focus of the community service and school visits within this initiative?",
+              "answer": "It focuses on raising awareness of cybercrime among school students through visits and training programs."
+            },
+            {
+              "question": "Who are the chair and members of this initiative?",
+              "answer": "Chair: Dr. May Aldossary (Email: mialdossary@iau.edu.sa), Dr. Samiha Ebrahimi (Email: sBRAHIMI@iau.edu.sa), Ms. Ghadeer Alazman (Email: gralazman@iau.edu.sa)"
+            },
+            {
+              "question": "What are the detailed objectives of the community service and school visits initiative?",
+              "answer": "The objectives include creating a qualified group of college and students to implement the project, coordinating with schools, and covering at least 20 schools in the Eastern Region during the school year."
+            }
+          ],
+          "training_programs": [
+            {
+              "question": "What is the purpose of the training programs within this initiative?",
+              "answer": "The purpose is to develop the skills of cybersecurity specialists and non-specialists by offering diverse training programs and workshops."
+            },
+            {
+              "question": "Who are the chair and members of the training programs initiative?",
+              "answer": "Chair: Ms. Maryam Aldossary (Email: mmsaldossary@iau.edu.sa), Ms. Ghadir al-Azman (Email: gralazman@iau.edu.sa)"
+            }
+          ],
+          "support_students_in_certificates": [
+            {
+              "question": "What is the goal of supporting students in obtaining professional certificates within this initiative?",
+              "answer": "The goal is to encourage students to obtain professional certificates in cybersecurity by covering 50% of the test fees."
+            },
+            {
+              "question": "Who is responsible for this initiative?",
+              "answer": "M. Saad al-Harithi (Email: saalharthi@iau.edu.sa)"
+            }
+          ],
+          "student_competition": [
+            {
+              "question": "What is the purpose of the student competition within this initiative?",
+              "answer": "The competition aims to highlight talented individuals in the kingdom and measure the performance of college students compared to students from other universities."
+            },
+            {
+              "question": "Who is in charge of the student competition initiative?",
+              "answer": "Ms. Malak Al-Fosail (Email: mkaalfosail@iau.edu.sa)"
+            }
+          ],
+          "advisory_board_directives": [
+            {
+              "question": "How does the advisory board contribute to this initiative?",
+              "answer": "The advisory board provides guidance and advice to the chair based on their unique knowledge and skills in cybersecurity and related areas."
+            },
+            {
+              "question": "Who is responsible for the advisory board directives initiative?",
+              "answer": "Dr. Naya Naji (Email: nmnagy@iau.edu.sa)"
+            }
+          ],
+          "supporting_industrial_sector": [
+            {
+              "question": "What is the goal of supporting the industrial sector within this initiative?",
+              "answer": "The goal is to support industrial projects and encourage students to invest their research in ways that benefit the industrial sector."
+            },
+            {
+              "question": "Who is responsible for this initiative?",
+              "answer": "Dr. Abdulrahman Alharby (Email: aalharby@iau.edu.sa)"
+            }
+          ],
+          "objectives": [
+            {
+              "question": "What are the objectives of the visit to Ablon International Law Firm, Patent Office, and Technology Transfer?",
+              "answer": "The objectives are to educate students about the importance of preserving the rights of invention and to guide them on how to do so."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the visit scheduled to take place?",
+              "answer": "Tuesday, 27/11/2018."
+            },
+            {
+              "question": "What was the time frame for the visit?",
+              "answer": "From 12:00 PM to 1:00 PM."
+            },
+            {
+              "question": "Where was the visit held?",
+              "answer": "It took place in Building A11, Event Room, and Building 650, Event Room."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was a lecture."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this visit?",
+              "answer": "The target audience consisted of male and female students from the College of Computer Science and Information Technology."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this visit?",
+              "answer": "The organizers were the College of Computer Science and Information Technology and AlMadar Technical Club."
+            }
+          ],
+          "objectives": [
+            {
+              "question": "What were the objectives of the Business Model Map event?",
+              "answer": "The objectives were to introduce Wa'ed, provide an overview of the training and advisory session, and conduct a mini-map working model workshop."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "Tuesday, 13/11/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "From 10:00 AM to 11:00 AM."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place in Building A11, Event Room."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was a lecture."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience consisted of male students from the College of Computer Science and Information Technology."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The organizers were the College of Computer Science and Information Technology and the Student Activities Unit."
+            }
+          ],
+          "objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objectives were to raise awareness about the dangers of electronic waste, motivate students to donate their old devices, and explain the stages of electronic device recycling."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "Tuesday, 6/11/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "From 10:00 AM to 11:00 AM."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place in Building 650, Room 215."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was an awareness campaign."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience consisted of male and female students from the College of Computer Science and Information Technology."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The organizers were the College of Computer Science and Information Technology and the AlMadar Technical Club."
+            }
+          ],
+          "objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objectives were to discuss methods of managing success, success steps, success reasons, and how to continue to be successful."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "Tuesday, 2/10/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "From 10:00 AM to 11:30 AM."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place in Building 400, Room 4215."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was a lecture."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience consisted of male students from the College of Computer Science and Information Technology."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The organizers were the College of Computer Science and Information Technology and the AlMadar Technical Club."
+            }
+          ],
+          "objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objectives were to discuss the damages caused by electronic waste, where e-waste goes, and how to dispose of e-waste properly."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "Wednesday, 10/10/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "From 12:00 PM to 1:00 PM."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place in Building 400, Room 4215."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was a lecture."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience consisted of male students from the College of Computer Science and Information Technology."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The organizers were the College of Computer Science and Information Technology and the AlMadar Technical Club."
+            }
+          ],
+          "objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objectives were to convey the meaning of academic procrastination to college students, discuss its types, highlight the positive results that can come from it, and provide real-life examples and situations."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "Tuesday, 18/09/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "From 10:00 AM to 11:30 AM."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place in Building 400, Room 4215."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was a lecture."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience consisted of college students (male)."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The organizers were the College of Computer Science and Information Technology and the AlMadar Technical Club."
+            }
+          ],
+          "objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objective was to discuss achieving excellence in university studies."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "11/09/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "From 10:00 AM to 12:00 PM."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place in Building 400, Room 4215."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was a lecture."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience consisted of college students (male)."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The organizers were the College of Computer Science and Information Technology and the AlMadar Technical Club."
+            }
+          ],
+          "objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objectives were to introduce the services of the Graduate and Development Center, explain the advantages of the graduate card, and promote joining the LinkedIn network."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "20/11/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "From 10:00 AM to 12:00 PM."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "Female at Building 650, Event Room. Male at Building A11, Event Room."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was a workshop."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience consisted of male and female students and graduates from the College of Computer Science and Information Technology."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The organizers were the College of Computer Science and Information Technology Graduate Unit and Professional Development Committee."
+            }
+          ],
+          "objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objectives were to ensure that the laboratory is ready for the competition and to train the participants on the program used in the competition."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "Tuesday, 20/11/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "From 10:00 AM to 12:00 PM."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place at the College of Computer Science and Information Technology's lab."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was a training program."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience consisted of college's students (female)."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The organizers were the College of Computer Science and Information Technology's Program Competition Committee."
+            }
+          ],
+          "objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objectives were to learn about POP Art and provide a day for students to explore their artistic tendencies, relieving them from study pressures."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "20/11/2018 & 27/11/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "Two days, averaging 8 hours each day."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place in Building 650, Room 105."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was a workshop."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience consisted of college's students (female)."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The organizers were the College of Computer Science and Information Technology's Student Activities Unit."
+            }
+          ],
+          "objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objectives were to introduce the Irtiqa Association to the university's staff members, administrators, students, and interested individuals from outside the university."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "Thursday, 25/11/2018 - 29/11/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "From 10:00 AM to 4:00 PM."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place at the College of Computer Science and Information Technology."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was a community service campaign."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience included all university employees and students (male and female)."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The event was organized by a community service support unit in partnership with the Irtiqa Association."
+            }
+          ],
+          "objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objectives were to present the experience of establishing a technology company, discuss the challenges facing entrepreneurs, especially in the technical field."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "Monday, 12/11/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "From 12:00 PM to 2:00 PM."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place in Building 650, Room 215."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was a workshop."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience consisted of College of Computer Science and Information Technology's female students and graduates."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The event was organized by the College of Computer Science and Information Technology's Graduate Unit and Professional Development Committee."
+            }
+          ],"objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objective was to create a nice and fun atmosphere for female students after the exam period."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "Tuesday, 13/11/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "From 10:00 AM to 3:00 PM."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place in Building 650."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was an entertainment event."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience included all college employees and students (female)."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The event was organized by the College of Computer Science and Information Technology's Student Activities Unit."
+            }
+          ],"objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objectives were to provide instructions and procedures for creating strong, unique, secure, and easy-to-remember passwords and advise users on creating safe passwords."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "Wednesday, 7/11/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "From 12:00 PM to 2:00 PM."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place in Building 650, Room 215."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was a workshop."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience consisted of College of Computer Science and Information Technology's female students and graduates."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The event was organized by the College of Computer Science and Information Technology's Alumni and Professional Development Committee."
+            }
+          ]
+          "objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objectives were to test students' skills in cybersecurity, participate in competitions at the local level, and enhance students' skills in cybersecurity."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "6/11/2018 - 7/11/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "It lasted for 12 hours."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place at Crowne Plaza Conference Hall, Riyadh."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was a competition."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience consisted of cybersecurity students (male)."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The event was organized by Virtuport Company."
+            }
+          ],
+          "objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objectives were to visit the white hole exhibition and learn about the products of Ruqi society associations."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "Tuesday, 28/10/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "From 11:30 AM to 1:30 PM."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place at Wamedh Association."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was a visit."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience consisted of college students (female)."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The event was organized by the College of Computer Science and Information Technology's Student Activities Unit in coordination with Wamedh Association."
+            }
+          ],
+          "objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objectives were to clarify the elements of information crime, difficulties in discovering information crime, tools for reporting information crime, legal views in combating information crime, and the risks of information crime."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "Tuesday, 16/10/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "From 10:00 AM to 12:00 PM."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place in Building 650, Room 215."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was an awareness campaign."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience included college students (female and male)."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The event was organized by the College of Computer Science and Information Technology's Student Activities Unit in partnership with the Communications and Information Technology Commission."
+            }
+          ],
+          "objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objectives were to enhance the programming culture in the college through the participation of female students in national competitions, along with preparing them with workshops to enhance programming skills, problem-solving, and analytical abilities."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "28/1/1440 - 29/1/1440."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place at Abha Palace Hotel in Abha."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was a programming competition."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience included college students (female and male)."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The event was organized by King Khalid University in Abha."
+            }
+          ],
+          "objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objectives were to educate students about centers that support private and emerging projects, motivating them to prepare graduation projects that can turn into small businesses."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "Tuesday, 9/10/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "From 10:00 AM to 12:00 PM."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place at Waed Entrepreneurship Center, Saudi Aramco."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was a visit."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience consisted of Level 8 and 9 students (female)."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The event was organized by the College of Computer Science and Information Technology's Student Activities Unit."
+            }
+          ],
+          "objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objectives were to clarify the term 'Cloud Computing,' list types of Cloud Computing with real-life examples, and explain the services provided by cloud computing."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "Tuesday, 9/10/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "From 10:00 AM to 12:00 PM."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place in Building 650, Room 215."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was a lecture."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience included college students (female)."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The event was organized by the College of Computer Science and Information Technology's AlMadar Technical Club."
+            }
+          ],
+          "objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objectives were to present the experience of a graduate student in the technology sector, motivate female students, emphasize the importance of small projects in reducing unemployment, and highlight the challenges of entrepreneurship."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "Thursday, 11/10/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "From 12:00 PM to 1:00 PM."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place in Building 650, Room 112."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was a lecture."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience included computer science female students and graduates."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The event was organized by the College of Computer Science and Information Technology's Alumni Unit and Professional Development Committee."
+            }
+          ],
+          "objectives": [
+            {
+              "question": "What were the objectives of the event?",
+              "answer": "The objective was to develop team spirit and encourage teamwork in an interactive and fun way."
+            }
+          ],
+          "date_time_location": [
+            {
+              "question": "When was the event scheduled to take place?",
+              "answer": "Tuesday, 2/10/2018."
+            },
+            {
+              "question": "What was the time frame for the event?",
+              "answer": "From 11:00 AM to 12:00 AM."
+            },
+            {
+              "question": "Where was the event held?",
+              "answer": "It took place at Building 650, Main Entrance."
+            }
+          ],
+          "activity_type": [
+            {
+              "question": "What type of activity was it?",
+              "answer": "It was a competition."
+            }
+          ],
+          "target_audience": [
+            {
+              "question": "Who was the target audience for this event?",
+              "answer": "The target audience included college students (female)."
+            }
+          ],
+          "organizers": [
+            {
+              "question": "Who were the organizers of this event?",
+              "answer": "The event was organized by the College of Computer Science and Information Technology's Student Activities Unit."
+            }
+          ],
+          
+        
+        
+
+  }

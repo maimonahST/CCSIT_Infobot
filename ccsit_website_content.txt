@@ -1,0 +1,3143 @@
+Introduction
+    The College of Computer Science and Information Technology at Imam Abdulrahman bin Faisal University is one of the largest colleges in the University. Since its establishment in 2010 the College has been committed to providing its students with an innovative and state-of-the-art computer science curriculum.
+    Computer Science and Information Technology are fascinating disciplines that are driving scientific and technological progress, creating the tools that advance society and improve our quality of life. In order to meet the growing demand in the job market for accomplished computer science and information technology professionals who possess the latest scientific and technological skills.
+    The College offers four undergraduate programs and one postgraduate program:
+
+     Bachelor of Science in Computer Science
+     Bachelor of Science in Computer Information Systems
+     Bachelor of Science in Cyber Security and Digital Forensics
+     Bachelor of Science in Artificial Intelligence
+     Master of Science in Computer Science (MSCS) for special majors (Big Data and Cloud Computing - Information Security - Software Engineering)
+    Elective courses are available in all programs which allows students to choose from advanced topics offered by the College such as: Data Mining and Warehousing, Modeling and Simulation, Expert Systems, Advanced Programming Languages, Advanced Software Engineering, Knowledge Management and Information Retrieval, Multi-Agents, Computer Vision and Computer Graphics, Advanced Operating Systems, Mobile Application Programming, Distributed Systems, Advanced Computer Networks, Advanced Digital Investigation Multimedia Security File System, Forensic Analysis and several other courses concentrating on current topics of interest. The college adopts the English language as the language of teaching and learning.
+
+Vision
+    To be a leading computing college at national, regional, and global levels
+
+Mission
+    Provide quality computing education, discovery, and professional services with community engagements.
+
+Goals
+    Offer quality education in the computing domain.
+    Stimulate creative intra and inter college collaborative research.
+    Facilitate the culture of community services and advocate social integration.
+    Recruit and retain high caliber faculty and talented staff.
+    Improve college infrastructure for sustainable environments.
+    Develop and implement a robust management system.
+    Strengthen financial self-sustenance and entrepreneurship culture at the college.
+    Upgrade infrastructure and computing laboratories
+Values 
+    Loyalty
+    Excellence
+    Teamwork
+    Transparency
+    Diversity
+    Creativity
+    Social responsibility
+
+
+--------------------------------------------------------------
+
+On behalf of the faculty and staff members, I am delighted to welcome you to the College of Computer Science and Information Technology (CCSIT) at Imam Abdulrahman Bin Faisal University. We are providing high-quality, world-class quality education since 2010, that produces skilled professionals with the ability to anticipate and adapt to the needs of the strategic workforce in Saudi Arabia.
+Through the strategic plan, the aim is to be a leading college that has capable graduates who contributes to the development and transfer of technology. Moreover, they will serve as major source of research and innovation to support and develop the knowledge-based economy in the private and government sectors. This could be realized by providing an inspirational learning environment to gain leadership skills, high standards and values, creativity, teamwork, lifelong learning and a strong sense of their future career. The college also gives priority to provide professional services with community engagements.
+To achieve these goals, the college has an elite faculty members and staff to lead and compete with others national, reginal, and international programs. CCSIT consists of four academic departments that offer Bachelor of Science degrees (BS) in four different majors: Computer Science, Computer Information Systems, Cyberspace Security and Digital Forensics, and Artificial Intelligence, as well as Master of Science (MS) degrees in Computer Science.
+
+In order to keep up-to-date of developments and requirements of the local and international industry, the College seeks to review its various academic programs continuously based on feedback from all stakeholders, such as employers, alumni and current students, through the application of quality standards via local (NCAAA) and international (ABET) academic accreditation to improve the quality of their educational outputs.
+Please take a look at the website for information about our programs, research, and faculty. If you have questions or comments, please contact me at amalmuhaideb@iau.edu.sa
+Sincerely, and with best wishes,
+
+Dr. Abdullah Mohammed Almuhaideb
+Dean, College of Computer Science and Information Technology
+
+--------------------------------------------------------------
+About the Vice Deanship
+This vice deanship assists the college dean in supervising the progress of the teaching and learning process during the university study stage, implementing the approved policies and programs related to the students’ affairs, supporting the educational services, and realization of the objectives prescribed for it.
+
+The Deanship works in coordination with the heads of departments and through the numerous College committees to build an academic environment conducive to learning and innovation that produces creative competencies graduates who have cognitive and professional capabilities and moral commitment. Furthermore, the deanship provides the necessary support for students to improve their chances of success by providing academic support services, such as academic advising to the students.
+
+
+--------------------------------------------------------------
+About the Vice Deanship
+The vice deanship seeks continuous development and community partnerships as one of its main and direct goals. This includes preparing development plans for classrooms and laboratories, providing the necessary training and support for faculty members, admin staff, students, and graduates, as well as ensuring the application of international standards of quality in the of programs offered within the college. The vice deanship also pays great attention to promoting the values ​​of social responsibility through a range of curricular and extracurricular activities, scientific research, and the provision of community services. 
+
+The vice deanship includes several important academic and administrative units that are involved in preparing, planning, and implementing development and community initiatives at the college level, namely: Academic Accreditation Unit, Academic Program Development Unit, Development and Training Unit, Alumni Unit, Information Technology Unit, and Community Service Unit.
+
+
+Contact us
+Vice Dean for Development and Community Partnership
+vddq.ccsit@iau.edu.sa
+--------------------------------------------------------------
+About the Vice Deanship
+This vice deanship for scientific research and innovation is attached and reports to the competent dean. It offers assistance in the supervision of the progress of the educational, academic, and research process of the postgraduate studies students and the management of the units attached to it in a way that promotes the realization of the organizational objectives. It tracks the execution of the strategic plans for the achievement of the overall objectives and targets of the university. It assumes supervision of the academic and administrative bodies of the deanship. 
+
+In addition; the scientific research and innovation are increasingly focusing on research as a driver of innovation and growth, contributing significantly to solving local, regional, and international problems, while supporting excellence in research and innovation, and emphasizing the commitment to scientific research standards. Furthermore, the deanship stays abreast of all matters relevant to graduate students’ scholarships, and scientific research until the end of their studies. 
+
+Contact us
+Vice Dean for Scientific Research and Innovation
+Tel: 0133335451 
+Email: ccsit.adgssr@iau.edu.sa
+
+--------------------------------------------------------------
+
+Computer Science Department 
+The Department of Computer Science (CS) has been providing its students with a state-of-the-art computer science curriculum since its establishment in 2010. Computer Science is a fascinating field driving scientific and technological progress, creating the tools that advance society and improving our quality of life. To meet the demand in the job market for accomplished computer science professionals, the Department offers both undergraduate and postgraduate programs which are: A Bachelor of Science degree in Computer Science (CS), A Bachelor of Science degree in Cyber Security and Digital Forensics (CYS), and A Master of Science in Computer Science (MSCS).
+
+Computer Information Systems Department
+The Department of Computer Information Systems (CIS) is committed to providing its majors with a solid foundation in research and analyses; expertise in designing systems, as well as creating and protecting databases and networks.  The Bachelor of Science in Computer Information Systems is a rigorous program that prepares its graduates for not only a professional career in the business world but its graduates are also well equipped to tackle the academic challenges of graduate study.
+
+Computer Engineering Department
+Next-generation information systems will facilitate flexible dialogue between people and machines using language, voice, images, and other media. In other words, it will be possible to build intelligent information systems to help humanity to think creatively rather than simply to be operated by human beings. In order to instill the knowledge and technologies for developing such intelligent systems, the Computer Engineering (CE) department, through its Bachelor of Science in Artificial Intelligence (AI) program offering, is committed to preparing its graduates for (1) Acquiring the knowledge and skills for developing various intelligent information systems through a basic grasp of computer science and information processing technology, (2) Developing novel techniques of intelligent information processing in which computers collaborate with human beings, by learning various technologies in intelligent information processing, and finally (3) Mastering the fundamentals of mathematics and natural sciences.
+
+Networks and Communications Department
+In light of the vision of the Kingdom of Saudi Arabia 2030 to strengthen the digital infrastructure and because cybersecurity is one of the essential elements of national security, Networks and Communications Department contributes to this vital field by offering a Bachelor of Science in Cybersecurity and Digital Forensics to prepare well-qualified specialists who own research and analysis skills to deal with real threats that have the potential of derailing our daily life and compromising national and global security.
+
+The Bachelor of Science in Cybersecurity and Digital Forensics received (ABET) accreditation as the first program in cybersecurity to make this achievement in the Kingdom.
+
+--------------------------------------------------------------
+
+The Department of Computer Science (CS) has been offering state-of-the-art computer science education since its establishment in 2010. Computer Science is a fascinating field driving scientific and technological progress, creating the tools that advance society and improving our quality of life. To meet the job market demand for accomplished computer scientists, the department offers both undergraduate and postgraduate programs: a Bachelor of Science in Computer Science (BSCS) and a Master of Science in Computer Science (MSCS).
+
+Vision 
+    To be a distinguished computer science program for quality education, research, and community services at national, regional and international levels
+
+Mission
+    To offer a quality education in the various domains of Computer Science and prepare students for both their professional careers and lifelong learning by enhancing their problem-solving skills and instilling in them a sense of responsibility towards serving their community, society and the nation in a professional manner.
+
+Graduate Attributes
+    PGA1: Ethically and Socially Responsible
+
+    PGA2: Critical thinking and Problem solver
+
+    PGA3: Effective communicator & Team Player
+
+    PGA4: Life-long Learner
+
+    PGA5: Good Practitioner of Computer science and Related Technology
+
+Program Educational Objectives
+    Graduates of the Bachelor of Science in Computer Science will demonstrate the following four career and professional accomplishments.
+
+Apply computing knowledge and skills to design and implement solutions in computer science domain.
+Contribute effectively as an individual, team member and leader.
+Demonstrate ethical and social values in their professional practices.
+Engage in lifelong learning, higher education, career growth, and community service.
+Students Outcomes
+    0. Explain the fundamental concepts and theories of computer science and related fields.
+    1. Analyze a complex computing problem and apply principles of computing and other relevant disciplines to identify solutions. 
+    2. Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the Program’s discipline.  
+    3. Communicate effectively in a variety of professional contexts.
+    4. Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles. 
+    5. Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline.
+    6. Apply computer science theory and software development fundamentals to produce computing-based solutions.
+
+Undergraduate Programs
+    Bachelor of Science in Computer Science (CS)
+Postgraduate Programs
+    Master of Science in Computer Science
+ABET Accreditation
+
+
+
+--------------------------------------------------------------
+The Department of Computer Information Systems (CIS) is committed to providing its majors with a solid foundation in research and analyses; expertise in designing systems, as well as creating and protecting databases and networks.  The Bachelor of Science in Computer Information Systems is a rigorous program that prepares its graduates for not only a professional career in the business world, but its graduates are also well equipped to tackle the academic challenges of graduate study.
+
+Undergraduate Program
+Bachelor of Science in Computer Information Systems (CIS)
+Postgraduate Program
+Master of Science in Information Systems and Data Analytics
+
+
+--------------------------------------------------------------
+About the Department
+Next-generation information systems will facilitate flexible dialogue between people and machines using language, voice, images, and other media. In other words, it will be possible to build intelligent information systems to help humanity to think creatively rather than simply to be operated by human beings. In order to instill the knowledge and technologies for developing such intelligent systems, the Computer Engineering (CE) department, through its Bachelor of Science in Artificial Intelligence (AI) program offering, is committed to preparing its graduates for (1) Acquiring the knowledge and skills for developing various intelligent information systems through a basic grasp of computer science and information processing technology, (2) Developing novel techniques of intelligent information processing in which computers collaborate with human beings, by learning various technologies in intelligent information processing, and finally (3) Mastering the fundamentals of mathematics and natural sciences.
+
+Undergraduate Program
+Bachelor of Science in Artificial Intelligence
+--------------------------------------------------------------
+The Department of Networks and Communications prepares well-qualified specialists who own research and analysis skills to deal with real threats that have the potential of derailing our daily life and compromising national and global security. The Department of Networks and Communications is proud to offer the first ABET-accredited Cyber Security and Digital Forensics program outside the United States. The Cyber Security and Digital Forensics Program at CCSIT is intended to produce skilled professionals to understand the processes that impact information security, safeguarding information assets, collection and preservation of digital evidence, analysis of data, and identification and fixing of security vulnerabilities. The major courses include fundamental of cybersecurity, Mathematical Foundations of Information Security, Information System Audit, Network Security, Digital Evidence Analysis, Architecture of Secure Operating System, Advanced Digital Forensic, Ethical hacking, Mobile & Wireless Security, Secure Software Design and Engineering, introduction to reverse engineering, and Applied Cryptography.
+
+Career Opportunities:
+    Forensic Specialist
+    Cyber Security Consultant
+    Incident and Threat Manager
+    Risk Analysts and Risk Manager
+    Software Developer
+    IT Project Manager
+    Computer Science Researcher
+    Applications Specialist
+    Computer Systems Consultant
+    Cybercrime Specialist
+    Digital or Computer Forensic Examiner.
+    Undergraduate Programs
+    Bachelor of Science in Cyber Security and Digital Forensics (CYS)
+--------------------------------------------------------------
+
+Undergraduate Programs
+Program title,	Degree type,	Location
+Bachelor of Science in Artificial Intelligence,	BSc,	Dammam
+Bachelor of Science in Computer Information Systems (CIS),	BSc,	Dammam
+Bachelor of Science in Computer Science (CS),	BSc,	Dammam
+Bachelor of Science in Cyber Security and Digital Forensics (CYS),	BSc,	Dammam
+
+
+Postgraduate Programs
+Program title,	Degree type,	Location
+Master of Science in Computer Science,	MS.c,	Dammam
+Master of Science in Information Systems and Data Analytics,	MSc,	Dammam
+
+
+--------------------------------------------------------------
+
+Saudi Aramco Chair for Cyber Security
+
+About the Chair
+The Saudi Aramco Chair for Cyber Security was established on 1/5/1442 AH corresponding to 16/12/2020 AD in the College of Computer Science and Information Technology at Imam Abdul Rahman bin Faisal University, funded by Saudi Aramco for a period of three years 
+
+The financier's representative to the chair: M. Amr El-Sherbiny
+
+Vision
+A leading chair that achieves excellence locally, regionally, and globally in the field of cybersecurity.
+
+Message
+To provide creative knowledge, research, and professional services in an effective community partnership in the field of cybersecurity.
+
+Values
+Excellence, commitment, teamwork, diversity, creativity, and social responsibility.
+
+Goals
+1. Promoting research, innovation, and technology transfer in cybersecurity management and engineering.
+2. Providing cybersecurity training to the academic, industrial and non-professional community.
+3. Assess the cybersecurity needs of the community and provide solutions
+
+Sponsor website:
+https://www.aramco.com/en/who-we-are/overview  
+
+
+
+--------------------------------------------------------------
+"Creating awareness about the cyber threat is more than necessary in a world where everyone is in the internet world. The Saudi Aramco Cybersecurity Chair is a collaboration initiative between Saudi Aramco and Imam Abdul Rahman Bin Faisal University represented by the College of Computer Science and Information Technology to promote research, innovation, and technology transfer in the field of cybersecurity management and engineering by attracting distinguished researchers locally and internationally to encourage joint action and achieve integration and permanent development to maintain the security and future of Saudi Arabia following its ambitious vision 2030.
+The establishment of the chair embodies part of the strong, distinguished and lasting partnership between the University and Saudi Aramco, which contributes to the development and support of academic programs and conducting high quality scientific research and impact on both sides, as well as on the homeland and society, as well as translates this agreement to promote intellectual investment and excellence in the University and Saudi Aramco in the field of Cybersecurity by developing national competencies capable of keeping up with contemporary technical changes to deal with security threats and enhance their cybersecurity skills, including authoring and translation of books, conducting studies and research and strengthening the scientific dissemination movement in international scientific journals, implementing specialized training programs, organizing scientific events and programs such as conferences, seminars and panel discussions, and providing specialized advisory services, adding that this agreement is interested in planning, developing and implementing community awareness successfully through learning and continuing education programs, including the development of effective and practical ways to prevent violation of digital systems."
+
+Dr. Abdullah Mohammed Almuhaideb
+
+--------------------------------------------------------------
+
+Chair supervisor:
+
+Dr. Abdullah Mohammed Almuhaideb
+
+The Chair Professor:
+
+The offer and visa have been submitted, pending the completion of the contracting procedures.
+
+Advisers:
+
+Dr. Abdullah A. Alqahtani, Dr. Malak S. Aljabri, Dr. Khalid A. Alissa.
+
+Research Principal:
+
+Dr. Dina A. Alabbad, Dr. Sumayh Aljameel, Dr. Amal Alahmadi, Dr. May I. Aldossary, Dr. Mohammed Al-Qahtani, Dr. Samiha Brahimi, Dr. Saqib Saeed, Dr. Nazar A. Saqib, Dr. Abdulrahman ALHARBY, Dr. Rashid Zaghrouba, Dr. Rami Mustafa, Dr. Fahad al-Haidari, Dr. Naya Naji, Dr. Maryam Ahmed
+
+Research Associate:
+
+Dr. S.O. Olatunji (Aadam), Dr. Nasro min-Allah, Dr. Nehad M. Ibrahim, Dr. Atta Rahman, Dr. Gumathi Krishna, Mr. Saad A. Alharthi, Ms. Reem Al-Assaf, Mr. Hussein al-Attas, Ms. Malak K. AlFosail, Ms. Maryam M. Aldossary, M. Ghadir Al-Azman
+
+Undergraduate Students:
+
+A group of outstanding students participates
+
+Graduate students:
+
+A group of outstanding students participates
+
+Secretariat:
+
+Mr. Yousof AlMunsour
+
+Accountant:
+
+Mr. Hussein Al-Shawkar
+
+Other employees:
+
+Eng. Omar Al-Harbi, Mr. Hussein Al-Dabous, Mr. Hussein Alkhamis
+--------------------------------------------------------------
+LScientific Research and Publishing Initiative
+Supervisor: Dr. Abdullah Ali Alqahtani 
+
+Email:  aamqahtani@iau.edu.sa
+
+This initiative includes research and scientific publication in the field of cybersecurity and oversees a range of sub-initiatives including scientific production, scholarships for graduate students, and lecture series and courses to enrich cybersecurity content
+
+Scientific production
+Chair and members of the initiative:
+
+Dr. Rachid Zagrouba : rmzagrouba@iau.edu.sa
+One of the main objectives of the scientific chair is to promote scientific research in the field of cybersecurity and support publication in open access journals. The support includes covering the costs of publishing in journals according to the following classification:
+
+Category 1: Contains the first quarter "Q1" and is the highest 25% of scientific journals in this discipline according to the impact factor.
+Category 2: Contains Q2 and represents 25% of journals in the highest impact factor following Q1.
+During the first six months of the chair's launch, the Chair received 23 funding requests and 7 research papers were published in Q1 and Q2- journals.
+
+For all papers published and funded by the scientific chair, the affiliation should be as follows:
+"SAUDI ARAMCO Cybersecurity Chair, College of Computer Science and Information Technology, Imam Abdulrahman Bin Faisal University, P.O. Box 1982, Dammam 31441, Saudi Arabia".
+
+Scholarships for graduate students
+Chair and members of the initiative:
+
+Dr. Rami Mustafa rmmohammad@iau.edu.sa
+In order to promote scientific research in the field of cybersecurity, the cybersecurity chair, in collaboration with the College of Computer Science and Information Technology, offers two scholarships to students enrolled in the cybersecurity path in the master's program in the Department of Computer Science. Each grant is a competitive grant covering 50% of tuition fees.
+This initiative is expected to be an important engine in the production of high-level scientific research so that the results of these research are published in prestigious scientific journals by attracting distinguished graduate students in the field of Cybersecurity.
+
+Lecture series and workshops in the field of Cybersecurity 
+Chair and members of the initiative:
+
+Dr.  Nasro min-Allah     nabdullatief@iau.edu.sa
+One of the main objectives of the chair is to enrich the knowledge content in the field of cybersecurity for interested specialists and non-specialists where a number of specialized lectures were organized and presented in the field by hosting and attracting speakers from senior specialists in the field and inviting those interested in the field from different sectors.
+The chair also organizes annual training workshops for 3-5 days so that interested people from information security departments are invited to register from various government and private entities. In addition to holding training courses for public and private sector workers.
+
+
+ Patents and editing books
+Chair and members of the initiative:
+
+Dr.  Saqib Saeed      sbsaed@iau.edu.sa  
+The Cybersecurity Chair intends to be a leading platform for creating and disseminating knowledge in cybersecurity. To improve the scientific vision of the Saudi Aramco Cybersecurity Chair, it intends to enhance research productivity by patenting, editing books, editing special issues in leading journals, and organizing special sessions at international conferences.
+
+
+--------------------------------------------------------------
+Studies and development initiative
+Supervisor : Dr. Malak Aljabri
+Email : msaljabri@iau.edu.sa
+
+The initiative includes several sub-initiatives that are interested in cybersecurity, such as establishing a digital newsletter for the chair, enriching Arabic content in the field, equipping specialized laboratories, measuring the satisfaction of beneficiaries, and developing curricula in the field.
+
+Digital Newsletter
+Chair and members of the initiative:
+
+Dr. Maryam Ahmed : mtahmed@iau.edu.sa
+Ms. Maryam Aldossary: mmsaldossary@iau.edu.sa
+The digital newsletter provides an effective electronic communication channel for cybersecurity experts and the public. The newsletter raises awareness about cyberattacks and how to stay safe in the cyber world. It also publishes current news about cybersecurity, the achievements of cybersecurity students at the College of Computer Science and Information Technology, and recent research publications for faculty and students.
+
+Enriching Arabic cybersecurity content
+Chair and members of the initiative:
+
+Dr. Gomathi Krishna    gKrishna@iau.edu.sa
+Ms. Reem Alassaf      raalassaf@iau.edu.sa
+This initiative aims to enrich the Arabic content in the field of cybersecurity by supporting the translation of the most important books in the field for Arabic. Although Arabic is the fourth popular language in the world, scientific content in Arabic is very low. Therefore, this step is necessary to support Arabic sources for Arab readers. Interested translators can apply by sending the application to e-mail: (ccsit.achair@iau.edu.sa).
+
+Equipping a Cybersecurity lab with the latest technology
+Chair and members of the initiative:
+
+Dr. Fahd Alhaidari/ faalhaidari@iau.edu.sa
+Dr. Amal Alahmadi / aaalahmadi@iau.edu.sa
+One of the most important initiatives is to build laboratories to support the outcomes of the cybersecurity program. This includes the construction of dedicated cybersecurity laboratories containing digital forensics and cybersecurity equipment based on standards derived from the most well-known national and international programs and centers.
+Another important goal is to create a virtual laboratory where students, trainees, and researchers can conduct online experiments and training through programs designed and equipped to cover many aspects of cybersecurity including ethical hacking, security analysis, defense techniques, and reverse engineering
+
+Website design and annual report
+Chair and members of the initiative:
+
+Dr. Dina Alabbad : daalabbad@iau.edu.sa
+Mr.Yousof AlMunsour yzalmunsour@iau.edu.sa
+In order to document all initiatives, activities, and scientific results of the chair, work is underway to design a website to facilitate users' access to all the chair's belongings and is updated periodically with all the latest developments.
+All the activities, outputs, and events of the chair are documented in an annual report delivered to the financier to learn about the march of the scientific chair and its achievements during the year.
+
+Measuring beneficiary satisfaction
+Chair and members of the initiative:
+
+Dr. Sumayah Aljameel: saljameel@iau.edu.sa
+Dr. Nehad M. Ibrahim nmaIbrahim@iau.edu.sa
+
+The Beneficiary Satisfaction Measurement Initiative supports improvements and development of the quality of all chaired initiatives from workshops, training courses, graduate grant programs, advisory committees, community services, and periodic competitions. The main objectives of this initiative include:
+• Work to create and distribute questionnaires for the beneficiaries of the initiatives.
+• Analyze the results and present them to the chair council.
+• Identify strengths and weaknesses based on the results of the questionnaires for the purpose of improvement and quality.
+
+Courses Development
+Chair and members of the initiative:
+
+Dr. Amal Alahmadi: aaalahmadi@iau.edu.sa
+Dr. Malak Aljabri msaljabri@iau.edu.sa
+This initiative aims to develop scientific curricula by establishing local and international cooperation for the purpose of preparing and teaching advanced courses in cybersecurity in cooperation with other areas such as artificial intelligence, including preparation, characterization of courses, educational materials, and tests.
+
+
+
+--------------------------------------------------------------
+Scientific Cooperation and Exchange of Experiences Initiative
+Supervisors: Dr. Khalid Alissa , Dr. Abdullah Almuhaideb
+
+Email: kaalissa@iau.edu.sa, amAlmuhaideb@iau.edu.sa
+
+The initiative aims to provide specialized consultations by a number of local and international experts and to create channels of communication around the world with specialized research centers in the field. The initiative also focuses on serving the community through school visits to raise awareness of cybercrime, cybersecurity training, student competition, and benefit from the expertise of the advisory board.
+
+Building channels of communication with local and global Cybersecurity researchers and research centers
+Chair and members of the initiative:
+
+Dr. Sunday Olatunji : osunday@iau.edu.sa
+Dr. Mohammed Alqahtani : maqhtani@iau.edu.sa
+The chair aims to create unique collaborative channels with carefully selected cybersecurity researchers and cybersecurity research centers globally in order to strengthen the cooperative alliance to effectively and comprehensively investigate the objectives of Saudi Aramco's cybersecurity chair. 
+
+Community service and school visits
+Chair and members of the initiative:
+
+Dr. May Aldossary: mialdossary@iau.edu.sa
+Dr. Samiha Ebrahimi                        sBRAHIMI@iau.edu.sa
+Ms. Ghadeer Alazman : gralazman@iau.edu.sa
+Due to the widespread use of technology from smart devices and social networking sites, children, especially adolescents, are exposed to the dangers of illegal bullying, extortion, and penetration.
+The content is prepared and reviewed by cybersecurity specialists at the college. Accordingly, the detailed objectives of the initiative are:
+
+Creating a qualified group of college and students to implement the project
+Communication with schools and coordination in line with the availability of participating members and students.
+Cover at least 20 schools in the Eastern Region in the school year
+Training programs
+Chair and members of the initiative:
+
+ Ms. Maryam Aldossary mmsaldossary@iau.edu.sa
+Ms. Ghadir al-Azman gralazman@iau.edu.sa
+The scientific chair is interested in developing the skills of interested specialists and non-cyber security professionals by offering a range of diverse training programs and workshops to acquire diverse cybersecurity skills. A number of training programs are prepared and organized by chair operators or in cooperation with distinguished stakeholders and specialists in the field.
+
+Support students in obtaining professional certificates
+Chair and members of the initiative:
+
+M. Saad al-Harithi saalharthi@iau.edu.sa
+This initiative aims to support and encourage students to obtain professional certificates in the field of cybersecurity by covering 50% of the test fees.
+
+Student Competition
+Chair and members of the initiative:
+
+ Ms. Malak Al-Fosail mkaalfosail@iau.edu.sa
+In order to highlight the talented people in the kingdom and prove that the scientific chair of Saudi Aramco contributes to their creation and support, an annual competition is held to measure the performance of college students compared to students from other universities. In addition, training courses are conducted for students with the highest ranks in the competition.
+
+Advisory board directives
+Chair and members of the initiative:
+
+Dr. Naya Naji nmnagy@iau.edu.sa
+The cybersecurity chair benefits from the guidance of the advisory board, which includes a group of individuals who feed the chair with unique knowledge and skills in cybersecurity and related areas, which complement the knowledge and skills of chair members to achieve the goals more effectively. The chair aims to form an advisory board to include members of a variety of experiences covering industry, academia, and government sectors where members review the annual report of the Saudi Aramco cybersecurity chair and provide advice, guidance, and constructive support.
+
+Supporting the industrial sector
+Chair and members of the initiative:
+
+ Dr. Abdulrahman Alharby aalharby@iau.edu.sa
+This initiative aims to support the projects in the industrial sector and works to identify the relevant projects and encourage students of bachelors and masters to invest their research in a way that requires the development of models that support the industrial sector and produce distinct research from them and publish them in prestigious journals.
+
+--------------------------------------------------------------
+Visiting Ablon International Law Firm, Patent Office and Technology Transfer
+Objectives
+Educating students about the importance of preserving the rights of invention and directing students to the right place and the right way to preserve their rights.
+
+Date
+Tuesday 27/11/2018.
+
+Time
+12:00 PM to 1:00 PM
+
+Location
+Building A11, Event Room.
+Building 650, Event Room.
+Type of Activity
+Lecture.
+
+Target Audience
+College of Computer Science and Information Technology's male and female Students.
+
+Organizers
+College of Computer Science and Information Technology, AlMadar Technical Club.
+
+--------------------------------------------------------------
+Business Model Map
+Objectives
+Giving an introduction to Wa'ed.
+An overview of the training and advisory session.
+Mini-map working model Workshop.
+Date
+Tuesday 13/11/2018.
+
+Time
+10:00 AM to 11:00 AM
+
+Location
+Building A11, Event Room.
+
+Type of Activity
+Lecture.
+
+Target Audience
+College of Computer Science and Information Technology's male Students.
+
+Organizers
+College of Computer Science and Information Technology, Student Activities Unit.
+--------------------------------------------------------------
+
+Introduction to Irtiqa Charity Association
+Objectives
+Awareness of the dangers of electronic waste.
+Motivating students to donate their old devices.
+Explain the stages of electronic devices recycling.
+Date
+Tuesday 6/11/2018.
+
+Time
+10:00 AM to 11:00 AM
+
+Location
+Building 650, Room 215.
+
+Type of Activity
+Awareness campaigns.
+
+Target Audience
+College of Computer Science and Information Technology's male and female Students.
+
+Organizers
+College of Computer Science and Information Technology, AlMadar Technical Club
+--------------------------------------------------------------
+
+Managing Success
+Objectives
+Methods of managing success.
+Success steps.
+Success reasons.
+Continuing to be successful.
+ Date
+Tuesday 2/10/2018.  
+
+Time
+10:00 AM to 11:30 AM
+
+Location
+Building 400, Room 4215.
+
+Type of Activity
+Lecture.
+
+Target Audience
+College of Computer Science and Information Technology's male Students.
+
+Organizers
+College of Computer Science and Information Technology, AlMadar Technical Club.
+
+
+--------------------------------------------------------------
+
+Electronic Waste (E-waste)
+Objectives
+Electronic waste damages
+Where does the e-waste go?
+Dispose of e-waste properly
+Date
+Wednesday 10/10/2018.
+
+Time
+12:00 PM to 1:00 AM
+
+Location
+Building 400, Room 4215.
+
+Type of Activity
+Lecture.
+
+Target Audience
+College of Computer Science and Information Technology's male Students.
+
+Organizers
+College of Computer Science and Information Technology, AlMadar Technical Club.
+
+--------------------------------------------------------------
+Code Hunt
+Objectives
+Improving students' programming speed.
+Create an atmosphere of competition among students.
+Programming is a basic goal for a student.
+Date
+Tuesday 25/09/2018.
+
+Time
+10:00 AM to 11:30 AM
+
+Location
+Building 400, Room 4215.
+
+Type of Activity
+Competition.
+
+Target Audience
+College Students (Male).
+
+Organizers
+College of Computer Science and Information Technology, AlMadar Technical Club.
+--------------------------------------------------------------
+
+Objectives
+Conveying the meaning of academic procrastination to college students and its types, with clarification of the positive results that result from it, with evidence from real life examples and situations.
+
+Date
+Tuesday 18/09/2018.
+
+Time
+10:00 AM to 11:30 AM
+
+Location
+Building 400, Room 4215.
+
+Type of Activity
+Lecture.
+
+Target Audience
+College's Students (Male).
+
+Organizers
+College of Computer Science and Information Technology, AlMadar Technical Club.
+--------------------------------------------------------------
+How to Excel in Your University Studies
+Objectives
+Excellence in university studies.
+
+Date
+11/09/2018.
+
+Time
+10:00 AM to 12:00 PM
+
+Location
+Building 400, Room 4215.
+
+Type of Activity
+Lecture.
+
+Target Audience
+College's Students (Male).
+
+Organizers
+College of Computer Science and Information Technology, AlMadar Technical Club.
+
+--------------------------------------------------------------
+
+Services Provided by the Alumni and Graduate and Development Center
+Objectives
+Introducing the services of the Graduate and Development Center and the advantages of the graduate card and joining the LinkedIn network.
+
+Date
+20/11/2018.
+
+Time
+10:00 AM to 12:00 PM
+
+Location
+Female at Building 650, Event Room.
+Male at Building A11, Event Room.
+Type of Activity
+Workshop.
+
+Target Audience
+College of Computer Science and Information Technology's male and female students and graduates.
+
+Organizers
+College of Computer Science and Information Technology Graduate Unit and Professional Development Committee.
+
+--------------------------------------------------------------
+Training Program for Participants in the Annual Programming Competition at CCSIT
+Objectives
+Ensure that the laboratory is ready for the competition.
+Training the participants on the program that used in the competition.
+Date
+Tuesday 20/11/2018.
+
+Time
+10:00 AM to 12:00 PM
+
+Location
+College of Computer Science and Information Technology, Lab.
+
+Type of Activity
+Training Program.
+
+Target Audience
+College's students (Female).
+
+Organizers
+College of Computer Science and Information Technology, Program Competition Committee.
+--------------------------------------------------------------
+
+POP Art Workshop
+Objectives
+Learn about POP Art.
+A nice and fun day for identification of the student's artistic tendencies so that the student gets out of the pressures of the study.
+Date
+20/11/2018 & 27/11/2018.
+
+Time
+Two days, in an average of 8 hours.
+
+Location
+Building 650, Room 105.
+
+Type of Activity
+Workshop.
+
+Target Audience
+College's students (Female).
+
+Organizers
+College of Computer Science and Information Technology, Student Activities Unit.
+
+--------------------------------------------------------------
+Computer Campaign
+Objectives
+This campaign is held in conjunction with the Irtiqa Association to introduce the association to the university’s staff members, administrators and students, as well as to those interested from outside the university.
+
+Date
+Thursday 25/11/2018 - 29/11/2018.
+
+Time
+10:00 AM to 4:00 PM
+
+Location
+College of Computer Science and Information Technology.
+
+Type of Activity
+Community service.
+
+Target Audience
+All university employees and students (Male and Female).
+
+Organizers
+A community service support unit in partnership with the Irtiqa Association.
+
+--------------------------------------------------------------
+Intel Codes Journey
+Objectives
+Presenting the experience of establishing a technology company and discussing the challenges facing entrepreneurs, especially in the technical field.
+
+Date
+Monday 12/11/2018.
+
+Time
+12:00 PM to 2:00 PM
+
+Location
+Building 650, Room 215.
+
+Type of Activity
+Workshop.
+
+Target Audience
+College of Computer Science and Information Technology's female students and graduates.
+
+Organizers
+College of Computer Science and Information Technology, Graduate Unit and Professional Development Committee.
+
+
+--------------------------------------------------------------
+
+Open Day
+Objectives
+Creating a nice and fun atmosphere for female students after the exam period.
+
+Date
+Tuesday 13/11/2018.
+
+Time
+10:00 AM to 3:00 PM
+
+Location
+Building 650.
+
+Type of Activity
+Entertainment.
+
+Target Audience
+All college employees and students (Female).
+
+Organizers
+College of Computer Science and Information Technology, Student Activities Unit.
+--------------------------------------------------------------
+
+
+How to Remember Every Password
+Objectives
+Provide instructions and procedures for creating a strong, unique, secure, and easy-to-remember password, and advise users on creating their passwords on safety and easy ways.
+
+Date
+Wednesday 7/11/2018.
+
+Time
+12:00 PM to 2:00 PM
+
+Location
+Building 650 , Room 215.
+
+Type of Activity
+Workshop.
+
+Target Audience
+College of Computer Science and Information Technology's female students and graduates.
+
+Organizers
+College of Computer Science and Information Technology, Alumni and Professional Development Committee.
+--------------------------------------------------------------
+
+Cybersecurity Competition (Hackathon 2018)
+Objectives
+Test students' skills in cybersecurity.
+Participation in competitions at the local level.
+Enhancing students' skills in cybersecurity.
+Date
+6/11/2018 - 7/11/2018.
+
+Time
+12 Hours.
+
+Location
+Crowne Plaza Conference Hall, Riyadh.
+
+Type of Activity
+Competition.
+
+Target Audience
+Cybersecurity students (Male).
+
+Organizers
+Virtuport Company.
+
+--------------------------------------------------------------
+
+Visiting the White Hole Exhibition at Wamedh Association
+Objectives
+Visit the white hole exhibition and learn about the products of Ruqi society associations.
+
+Date
+Tuesday 28/10/2018.
+
+Time
+11:30 AM to 1:30 PM
+
+Location
+Wamedh Association.
+
+Type of Activity
+Visit.
+
+Target Audience
+College students (Female).
+
+Organizers
+College of Computer Science and Information Technology. Student Activities Unit in coordination with Wamedh Association.
+--------------------------------------------------------------
+Cyber Crimes
+Objectives
+Clarify the elements of information crime
+Clarifying the difficulties of discovering information crime
+Clarifying the tools for reporting information crime
+Clarify the legal and legal view in the system of combating information crime
+Clarify the risks of information crime
+Date
+Tuesday 16/10/2018.
+
+Time
+10:00 AM to 12:00 PM
+
+Location
+Building 650 , Room 215
+
+Type of Activity
+Awareness campaigns
+
+Target Audience
+College students (Female and male).
+
+Organizers
+College of Computer Science and Information Technology, Student Activities Unit, in partnership with the Communications and Information Technology Commission.
+
+
+--------------------------------------------------------------
+
+Participation in the 3rd Programming Competition for Computer College Students
+Objectives
+Enhancing the programming culture in the college through the participation of female students in national competitions and preparing them with a number of workshops to enhance programming skills, problem solving and analytical abilities.
+
+Date
+28/1/1440 - 29/1/1440.
+
+Location
+Abha Palace Hotel in Abha.
+
+Type of Activity
+Competition
+
+Target Audience
+College students (Female and male).
+
+Organizers
+King Khalid University in Abha.
+
+--------------------------------------------------------------
+Visiting Waed Center
+
+Objectives
+To educate students that there are centers that support private and emerging projects, so that they have a motive in preparing graduation projects that turn into small projects.
+
+Date
+Tuesday 9/10/2018.
+
+Time
+10:00 AM to 12:00 PM
+
+Location
+Waed Entrepreneurship Center, Saudi Aramco.
+
+Type of Activity
+Visit
+
+Target Audience
+Level 8 and 9 Students (Female).
+
+Organizers
+College of Computer Science and Information Technology, Student Activities Unit.
+--------------------------------------------------------------
+
+Cloud Computing
+Objectives
+Clarification of Cloud Computing term.
+List the types of Cloud Computing and mention a real-life example for each type.
+Clarify the services that cloud computing provides.
+Date
+Tuesday 9/10/2018.
+
+Time
+10:00 AM to 12:00 PM
+
+Location
+Building 650, Room 215
+
+Type of Activity
+Lecture
+
+Target Audience
+College students (Female).
+
+Organizers
+College of Computer Science and Information Technology, AlMadar Technical Club.
+
+--------------------------------------------------------------
+
+From Unemployment to Entrepreneurship
+Objectives
+Presenting the experience of one graduate student from entrepreneurship in the technology sector.
+Motivating female students and emphasizing the importance of small projects and their role in reducing the unemployment problem.
+Show some of the challenges that facing entrepreneurship.
+Date
+Thursday 11/10/2018.
+
+Time
+12:00 PM to 1:00 PM
+
+Location
+Building 650, Room 112
+
+Type of Activity
+Lecture
+
+Target Audience
+Computer science female students and graduates.
+
+Organizers
+College of Computer Science and Information Technology, Alumni Unit and Professional Development Committee.
+
+--------------------------------------------------------------
+Ludo Star Competition
+Objectives
+Developing team spirit and encouraging teamwork in an interactive and fun way.
+
+Date
+Tuesday 2/10/2018.
+
+Time
+11:00 AM to 12:00 AM
+
+Location
+Building 650, Main Entrance
+
+Type of Activity
+Competition
+
+Target Audience
+College students (Female).
+
+Organizers
+College of Computer Science and Information Technology, Student Activities Unit.
+
+--------------------------------------------------------------
+
+Fateel Nafas Café
+Objectives
+Female students share their experiences in various directions such as sports, health, learning, recitation, writing, and coping with pressures.
+
+Date
+Tuesday 2/10/2018.
+
+Time
+10:00 AM to 11:30 AM
+
+Location
+Building 650, Room 215
+
+Type of Activity
+Nafas Cafe
+
+Target Audience
+College students (Female).
+
+Organizers
+College of Computer Science and Information Technology, Nafas Cafe.
+
+--------------------------------------------------------------
+
+An Hour of Programing
+Objectives
+Based on the university’s role in community service and its responsibility in sustainable development from an educational and cultural point of view to meet the needs of today's society and future generations.
+
+Date
+Tuesday 16/1/1440.
+
+Time
+10:00 AM to 11:30 AM
+
+Location
+A student class in the thirteenth elementary school in Dammam
+
+Type of Activity
+Community service.
+
+Target Audience
+Class students.
+
+Organizers
+College of Computer Science and Information Technology, Student Activities Unit.
+
+--------------------------------------------------------------
+How To Make Your Senior Year Count
+Objectives
+Preparing students at level 9 for the graduation year, including difficulties, prioritization and graduation project.
+
+Date
+Tuesday 18/9/2018.
+
+Time
+10:00 AM to 11:30 AM
+
+Location
+Building 650, Room 215
+
+Type of Activity
+Lecture
+
+Target Audience
+Level 9 students (Female).
+
+Organizers
+College of Computer Science and Information Technology, Student Activities Unit.
+
+--------------------------------------------------------------
+
+An Hour of Programing
+Objectives
+Based on the university’s role in community service and its responsibility in educational and cultural sustainable development that meets the needs of today's society and future generations.
+
+Date
+Tuesday 8/1/1440.
+
+Time
+10:00 AM to 11:30 AM
+
+Location
+Fifth Elementary School in Dhahran
+
+Type of Activity
+Community service
+
+Target Audience
+Fifth elementary students in Dhahran
+
+Organizers
+College of Computer Science and Information Technology, Student Activities Unit.
+
+--------------------------------------------------------------
+
+Introduction to Amazon Web Services
+Objectives
+Introduce students to the cloud services provided by Amazon that can be used for graduation projects and other personal projects.
+
+Date
+Tuesday 18/9/2018.
+
+Time
+10:00 AM to 12:30 PM
+
+Location
+Building 650 , Room 208
+
+Type of Activity
+Lecture
+
+Target Audience
+College students (female).
+
+Organizers
+College of Computer Science and Information Technology, Student Activities Unit.
+
+--------------------------------------------------------------
+
+Talented Students Workshop
+Objectives
+The first goal is to serve the community in the field of computer science and technology.
+Developing students ’skills in the technical field and teaching them some tools and techniques that will benefit them in their future scientific and practical path.
+Date
+From Sunday 9/9/2018.
+To Thursday 12/9/2018.
+
+Time
+8:30 AM to 1:00 PM
+
+Location
+Deanship of E-learning and Distance Edacation.
+
+Type of Activity
+Community service
+
+Target Audience
+Talented female students in general education.
+
+Organizers
+College of Computer Science and Information Technology Unit of the Community Service Support Committee in partnership with the Education Office in Khobar.
+
+--------------------------------------------------------------
+
+Preparatory Day for Second Year Students
+Objectives
+Preparing students at level 3 for a second year.
+
+Date
+Tuesday 4/9/2018
+
+Time
+10:30 AM to 11:45 PM
+
+Location
+Building 650, Room 215
+
+Type of Activity
+Occasions and celebrations
+
+Target Audience
+Second year students
+
+Organizers
+Student Activities Unit (Female Students)
+
+--------------------------------------------------------------
+
+An Hour of Programming
+Objectives
+Explain the importance of artificial intelligence in the future
+Children can learn some programming basics through playing lessons using the Tynker application in the smart devices.
+Date
+2-5-1440 H
+9-5-1440 H
+16-5-1440 H
+23-5-1440 H
+Time
+4 weeks, 3 hours per week.
+
+Location
+The third intermediate school in Dhahran.
+
+Type of Activity
+Community service.
+
+Target Audience
+Intermediate students – female.
+
+Organisers
+Student Activities Committee (Female Students)
+
+--------------------------------------------------------------
+
+Al the Future
+Objectives
+Explain the importance of artificial intelligence in the future.
+
+Date
+5-1-2019.
+
+Time
+2 hours.
+
+Location
+Building A11, Theater hall.
+
+Type of Activity
+Lectures / Seminars
+
+Target Audience
+The students.
+
+Organisers
+Student Activities Unit.
+
+--------------------------------------------------------------
+Introduction to The Innovation Center for Learning
+Objectives
+Introducing the Dhahran Valley Technology Program, which aims to attract a number of male and female graduates in the training program that ends with employment.
+
+Date
+7-4-2019
+
+Time
+12:00 pm -2:00 pm
+
+Location
+Sultan Qaboos University – Muscat
+
+Type of Activity
+Workshops
+
+Target Audience
+Female students and graduates of the College of Computer Science and Information Technology, College of Engineering, College of Designs, College of Applied Medical Sciences, College of Applied Studies and Community Service, College of Science and Human Studies in Jubail.
+
+Organisers
+Support Deanships Building D3
+
+
+--------------------------------------------------------------
+
+Elderly Home Visit
+Objectives
+Increasing communication and interdependence between educational institutions and social care homes
+Introducing joy and happiness to the hearts of the elderly
+Taking a lesson from life and thanking God for his grace.
+Date
+8-6-1441 H
+
+Time
+One day – 3hours
+
+Location
+Elderly Home in Dammam
+
+Type of Activity
+Trips and visits.
+
+Target Audience
+Female students.
+
+Organisers
+College social counseling.
+--------------------------------------------------------------
+Participation in the Gulf Competition for Programming in Oman – Muscat
+Objectives
+Achieving high positions in programming competitions.
+
+Date
+1-4-2019
+
+Time
+5 hours
+
+Location
+Sultan Qaboos University – Muscat
+
+Type of Activity
+Competition.
+
+Target Audience
+Male and female students.
+
+Organisers
+Sultan Qaboos University – Muscat.
+--------------------------------------------------------------
+Sea Trip
+Objectives
+A celebration of female graduates.
+
+Date
+27-3-2019
+
+Time
+9:00am - 1:00pm
+
+Location
+University Beach at Half Moon Beach.
+
+Type of Activity
+Trips and visits.
+
+Target Audience
+Female students.
+
+Organisers
+Student Activities Committee.
+--------------------------------------------------------------
+
+Motanfase Activity
+Objectives
+Recreation and renewal of energy for students.
+
+Date
+19-3-2019
+
+Time
+One day - 3 hours
+
+Location
+Building 650, room 206 and 208.
+
+Type of Activity
+Contests, art activities, events, and sports workshops.
+
+Target Audience
+Female students.
+
+Organisers
+Student Activities Committee (Nafs Café)
+
+--------------------------------------------------------------
+
+Quantum Computing, Its Impact on Cyber Security & Al
+Objectives
+Introduce the Quantum Computing and Its Impact on Cyber security and Al.
+
+Date
+19-3-2019
+
+Time
+10:00-11:00 am
+
+Location
+Building A11, room ZG-G84.
+
+Type of Activity
+Lectures / seminars.
+
+Target Audience
+Male and female students and Alumni.
+
+Organisers
+Alumni Unit and Professional Development Committee.
+--------------------------------------------------------------
+Beach Visit
+Objectives
+Entertainment.
+
+Date
+18-3-2019
+
+Time
+One day.
+
+Location
+University Beach at Half Moon Beach.
+
+Type of Activity
+Trips and visits.
+
+Target Audience
+Students - faculty members – employees.
+
+Organisers
+Student Activities Committee.
+
+--------------------------------------------------------------
+
+Sky Zone Visit
+Objectives
+Recreation and renewal of energy for students.
+
+Date
+12-3-2019
+
+Time
+One day – 3 hours.
+
+Location
+Sky Zone
+
+Type of Activity
+Trip.
+
+Target Audience
+Female students.
+
+Organisers
+Student Activities Committee.
+
+--------------------------------------------------------------
+
+Programming Jam 5.0
+Objectives
+Developing programming skills for the college students and by posing some problems that depend on analytical capabilities, to be solved within a specified time.
+
+Date
+9-3-2019
+
+Time
+7:00-9:00 am
+
+Location
+650, room 216-A
+
+Type of Activity
+Competitions.
+
+Target Audience
+Female students.
+
+Organisers
+Program Competition Committee.
+
+--------------------------------------------------------------
+E-learning Hackathon
+Objectives
+Participation in the e-learning Hackathon
+Participation in scientific posters.
+Date
+6-3-2019
+7-3-2019
+Time
+Two days
+
+Location
+Princess Noura University – Riyadh.
+
+Type of Activity
+Competitions.
+
+Target Audience
+Female students.
+
+Organisers
+Princess Noura University – Riyadh.
+
+--------------------------------------------------------------
+Datathon Challenge
+Objectives
+Motivate students to participate in the Datathon competition.
+
+Date
+5-3-2019
+
+Time
+10:00 am-12:00 pm
+
+Location
+Building 650, room 215.
+Building A11, room ZG-G84.
+Type of Activity
+Community service.
+
+Target Audience
+Male students.
+
+Organisers
+Activities Unit / Technical Orbit Club.
+
+--------------------------------------------------------------
+
+Introductory Exhibition for High School Students
+Objectives
+An explanation to the school's students about the college and the majors it offers, and an overview of the achievements of its students.
+
+Date
+25-2-2019
+28-2-2019
+Time
+4 days / 16 hours
+
+Location
+Health colleges building.
+
+Type of Activity
+Community service.
+
+Target Audience
+Male and female students.
+
+Organisers
+The activities unit in cooperation with the Technical Orbit Club.
+
+--------------------------------------------------------------
+The Art of Self-Marketing
+Objectives
+Providing instructions and procedures for the art of self-marketing, with guidance for the beneficiaries on how to self-market in a professional manner.
+
+Date
+12-2-2019
+
+Time
+11:00 am- 12:00 pm
+
+Location
+Building 650, room 215.
+Building A11, room ZG-G84.
+Type of Activity
+Workshop.
+
+Target Audience
+Male and female students.
+
+Organisers
+Alumni Unit and Professional Development Committee.
+
+--------------------------------------------------------------
+
+Aman Project
+Objectives
+It aims to define Cyber security and methods of protection from falling as victims of cybercrimes such as breaching privacy, extortion and impersonation.
+
+Date
+5-2-2019
+12-2-2019
+19-2-2019
+26-2-2019
+12-3-2019
+
+Time
+In activity hours.
+
+Location
+In a group of schools in the Eastern Province.
+
+Type of Activity
+Community service.
+
+Target Audience
+Middle school students - high school students (female).
+
+Organisers
+Community Service Support Unit.
+
+--------------------------------------------------------------
+Artificial Intelligence and Future Lecture
+Objectives
+Raising students' awareness of what is artificial intelligence, how it is important in the future.
+
+Date
+5-2-2019.
+
+Time
+10:00 am -1:00 pm
+
+Location
+Building 650, room 215.
+
+Type of Activity
+Lectures / seminars.
+
+Target Audience
+Female students.
+
+Organisers
+Student Activities Unit.
+
+--------------------------------------------------------------
+
+The Basics on Interviews and Employment & Importance of Registering on LinkedIn
+Objectives
+Provide interview essentials and procedures.
+The importance of signing up in LinkedIn.
+Date
+29-1-2019 - 12-2-2019
+
+Time
+11:00 am- 1:00 pm
+
+Location
+Building 650, room 215.
+Building A11, room ZG-G84.
+Type of Activity
+Lectures / seminars.
+
+Target Audience
+Male and female students.
+
+Organisers
+Student activities for the female section of the College of Computer Science and Information Technology.
+--------------------------------------------------------------
+Pop Art
+Objectives
+Developing the artistic skills of students through a workshop about the Pop Art.
+
+Date
+22-1-2019 and 26-1-2019
+
+Time
+4 days, 4 hours per a day
+
+Location
+Building 650, room 103.
+Building 650, room 108.
+Type of Activity
+Artistic activities.
+
+Target Audience
+Female students.
+
+Organisers
+Student activities for the female section of the College of Computer Science and Information Technology.
+--------------------------------------------------------------
+
+The Seventh Annual Programming Competition
+Objectives
+Developing programming skills of the college students by posing some problems that depend on analytical capabilities to be solved within a specified time.
+
+Date
+22-1-2019
+
+Time
+10:00 am – 12:00 pm
+
+Location
+Building 650, lab 114-A, lab 114-B, MAC lab.
+
+Type of Activity
+Competition.
+
+Target Audience
+Male and female students.
+
+Organisers
+Competitions Committee.
+
+--------------------------------------------------------------
+
+
+CV Writing Skills
+Objectives
+Introduce students to the most important CV writing skills.
+
+Date
+15-1-2019.
+
+Time
+Two hours.
+
+Location
+For female side building 650, event room
+For male side building A-11, room: ZG-G84.
+Type of Activity
+Lectures / seminars.
+
+Target Audience
+Male and female students.
+
+Organisers
+Graduate and Professional Development Unit at the College of Computer Science and Information Technology.
+--------------------------------------------------------------
+Future Technologies Qualification Training Workshop
+Objectives
+Enriching Arabic technical content.
+
+Date
+13-1-2019
+
+Time
+From 4:00 pm until 10:00 pm.
+
+Location
+Deanship of University Education Development D3.
+
+Type of Activity
+Lectures / seminars.
+
+Target Audience
+Male and female students.
+
+Organisers
+The Saudi Google Cloud Community sponsored by the Ministry of Communications and Information Technology.
+--------------------------------------------------------------
+Activities Closing Ceremony
+Objectives
+Honoring the participants in the activities.
+
+Date
+11-4-2019
+
+Time
+12:00-1:00 pm
+
+Location
+Building 650, foyer of the college.
+
+Type of Activity
+Occasions and celebrations.
+
+Target Audience
+Female students
+
+Organisers
+Student Activities, Female Section, College of Computer Science and Information Technology.
+--------------------------------------------------------------
+Dr. Abdullah Mohammed Almuhaideb
+Position
+Dean
+Associate Professor
+College
+College of Computer Science and Information Technology
+Department
+Networks and Communications
+Phone
+0555888810
+Email
+amalmuhaideb@iau.edu.sa
+Office
+Dean's Office
+
+
+
+
+Dr. Abdullah Alqahtani
+Position
+Vice Dean
+Assistant Professor
+Vice Dean for Postgraduate Studies and Scientific Research
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+35451
+Email
+aamqahtani@iau.edu.sa
+
+
+
+Dr. Alaa Yahya Jaber Alahmadi
+Position
+Vice Dean
+Assistant Professor
+Technical Affairs
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Deanship
+Deanship of Admissions and Registration
+Phone
+00966-13-333-2704
+Email
+ayalahmadi@iau.edu.sa
+
+
+
+Dr. Nahier Ghaleb Aldhafeeri
+Position
+Vice Dean
+Assistant Professor
+Alumni
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Deanship
+Deanship of Admissions and Registration
+Phone
+00966-13-333-2749
+Email
+naldhafeeri@iau.edu.sa
+
+
+
+Dr.Yasser Ahmad Bamarouf
+Position
+Vice Dean
+Assistant Professor
+Vice Dean of Development and Quality
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+00966-13-333-2002
+Email
+yabamarouf@iau.edu.sa
+Office
+4200 - D
+
+
+
+Dr. Mohammed Alqahtani
+Position
+Chair
+Assistant Professor
+CIS Department Chairman
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+0133332047
+Email
+maqhtani@iau.edu.sa
+Office
+4100 - F
+
+
+
+Dr. Sumayh Saud Aljameel
+Position
+Chair
+Assistant Professor
+Chair, Computer Science Department
+College
+College of Computer Science and Information Technology
+Email
+saljameel@iau.edu.sa
+
+
+
+Dr. Amal Aodah Alahmadi
+Position
+Chair
+Assistant Professor
+Computer Engineering Department
+College
+College of Computer Science and Information Technology
+Department
+Networks and Communications
+Phone
+0133332038
+Email
+aaalahmadi@iau.edu.sa
+
+
+
+Prof. Nazar Abbas Saqib
+Position
+Professor
+College
+College of Computer Science and Information Technology
+Department
+Networks and Communications
+Email
+nasaqib@iau.edu.sa
+Office
+4201-13
+
+
+
+Pro. Nasro Min Alalh
+Position
+Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Phone
+0541671553
+Email
+nabdullatief@iau.edu.sa
+
+
+Dr. Atta-ur-Rahman
+Position
+Associate Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Email
+aaurrahman@iau.edu.sa
+Office
+4205-2
+
+
+
+Sunday Olusanya Olatunji
+Position
+Associate Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Engineering
+Phone
+0599199358
+Email
+osunday@iau.edu.sa
+Office
+4205-3
+
+
+
+Dr. Garsah Farhan Alqarni
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Phone
+00966-13-333-2036
+Email
+gfalqarni@iau.edu.sa
+Office
+102E
+
+
+
+Dr. Mohammed Gollapalli
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+00966-13-333-5481
+Email
+magollapalli@iau.edu.sa
+Office
+4100 - G
+
+
+
+Dr. Rachid Zagrouba
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Email
+rmzagrouba@iau.edu.sa
+Office
+4205 - 5
+
+
+
+Dr. May Issa Aldossary
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Email
+mialdossary@iau.edu.sa
+
+
+
+Dr. Fatema Shaikh
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Email
+fsshaikh@iau.edu.sa
+
+
+
+Dr. Nesrine Islah Mezhoudi
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Email
+nimezhoudi@iau.edu.sa
+
+
+
+Dr. Samiha Brahimi
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+32017
+Email
+sBRAHIMI@iau.edu.sa
+
+
+
+Dr. Abdulrahman Alharby
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Networks and Communications
+Email
+aalharby@iau.edu.sa
+Office
+4100-C
+
+
+Dr. Khalid Adnan Alissa
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Networks and Communications
+Phone
+35453
+Email
+kaalissa@iau.edu.sa
+Office
+4205-7
+
+
+
+Dr. Khadeejah Alhindi
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Email
+krAlhindi@iau.edu.sa
+
+
+Dr.Rami Mustafa AbdelRahman
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+32044
+Email
+rmmohammad@iau.edu.sa
+
+
+Dr. Nida Aslam
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Email
+naslam@iau.edu.sa
+
+
+Dr. Irfan Ullah Khan
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Email
+iurab@iau.edu.sa
+
+
+
+Dr. Dhiaa A. Musleh
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Email
+damusleh@iau.edu.sa
+
+
+Dr. Farmanullah Jan
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Phone
+0583474198
+Email
+fzmjan@iau.edu.sa
+
+
+Dr. Samiha BRAHIMI
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+0581236612
+Email
+sbrahimi@iau.edu.sa
+
+
+Dr. Fahd Abdulsalam Alhaidari
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+0501371232
+Email
+faalhaidari@iau.edu.sa  
+Office
+4205 - 8
+
+
+Dr. Nahid Sultana
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Phone
+00966-13-333-2029
+Email
+nszakir@iau.edu.sa  
+Office
+102D
+
+
+Dr. Nida Aslam
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Phone
+32028
+Email
+naslam@iau.edu.sa
+Office
+102C
+
+
+Deemah AlQahtani
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Email
+daalqahtani@iau.edu.sa
+
+
+
+Dr. Saqib Saeed
+Position
+Associate Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+00966-13-333-2011
+Email
+sbsaed@iau.edu.sa
+Building
+A11
+Office
+4201 - 5
+
+
+
+Dr. Naya Nagy
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Networks and Communications
+Phone
+00966-558938371
+Email
+nmnagy@iau.edu.sa
+Office
+102G
+
+
+
+Yasir Alguwaifli
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Email
+ymalguwaifli@iau.edu.sa
+
+
+
+Dr.Dina Abdullah Alabbad
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Engineering
+Phone
++966500419171
+Email
+daalabbad@iau.edu.sa
+
+
+Dr. Mostafa Youldash
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Engineering
+Email
+mmzyouldash@iau.edu.sa
+
+
+Noor Maher Felemban
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Engineering
+Email
+nmfelemban@iau.edu.sa
+
+
+
+Dr. Nawaf Alharbi
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Engineering
+Email
+nmsalharbi@iau.edu.sa
+
+
+Dr. Mohammed Imran Basheer Ahmed
+Position
+Assistant Professor
+College
+College of Computer Science and Information Technology
+Department
+Computer Engineering
+Phone
+013-3335466
+Email
+mbahmed@iau.edu.sa
+
+
+Dalal Aldowaihi
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Phone
+32034
+Email
+daaldowaihi@iau.edu.sa
+Asrar Almogbil
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Email
+aaalmogbil@iau.edu.sa
+Abrar Mutlaq Alotaibi
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Email
+amotaibi@iau.edu.sa
+Office
+200H
+khalid mohamed hassan aloub
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Email
+kmAloup@iau.edu.sa
+Amal Hadi Alhajri
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Phone
+0506647049
+Email
+aalhajri@iau.edu.sa
+Mona Ahmed Altassan
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Phone
+0133332013
+Email
+maltassan@iau.edu.sa
+Mahira Ilyas
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+00966-13-333-2015
+Email
+mIlyas@iau.edu.sa
+Saeed Hussein AlQahtani
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+00966-13-333-5471
+Email
+shaqahtani@iau.edu.sa
+Office
+4100 - E
+Azzah Abdulrahim Alghamdi
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Email
+azghamdi@iau.edu.sa
+Rabab Ahmad Alkhalifa
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+00966-13-333-2016
+Email
+raalkhalifa@iau.edu.sa
+
+
+Sultan Sarhan Alanazy
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Email
+ssalanazy@iau.edu.sa
+Jumana Habeeb Bokhari
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+00966-13-333-5468
+Email
+jhbokhari@iau.edu.sa
+Arwa Almalki
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Email
+ammalki@iau.edu.sa
+Asiya Abdus Salam
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+00966-13-333-2040
+Email
+aasalam@iau.edu.sa
+Ruba mahmood Alsalah
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Email
+rmalsalah@iau.edu.sa
+Esraa Alshabeeb
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Phone
+00966-13-333-2037
+Email
+ealshabeeb@iau.edu.sa
+Office
+Room#205
+Yousof Almunsour
+Position
+Lecturer
+Coordinator-Male Section
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Email
+yzalmunsour@iau.edu.sa
+Office
+4100 - B
+Sghaier Chabani
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+0560744926
+Email
+srchabani@iau.edu.sa
+Office
+4203 - 6
+Gomathi Krishna
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
++966 5-37623921
+Email
+gKrishna@iau.edu.sa
+Nehad Mohamed Abdel Rahman
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Email
+nmaIbrahim@iau.edu.sa
+Office
+4203
+
+
+Mamoun Masoud Ibrahim Abdulqader
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Phone
+32006
+Email
+mmibrahim@iau.edu.sa
+Norah Saleh Alturayeif
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Email
+nsalTurayeif@iau.edu.sa
+Madeeha Saqib
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Email
+mssaeed@iau.edu.sa
+Fatimah Alshamrani
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Email
+Fhaalshamrani@iau.edu.sa
+Sarah Adil Mohammed Alissa
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Email
+saalissa@iau.edu.sa
+Abdullah Almuqhim
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Email
+aalmuqhim@iau.edu.sa
+Hanoof Algofari
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Email
+hmalgofari@iau.edu.sa
+Asiya Abdus Salam
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Networks and Communications
+Email
+aasalam@iau.edu.sa
+Saad Abdulrahman Alharthi
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Networks and Communications
+Phone
++966133332049
+Email
+saalharthi@iau.edu.sa
+Gomathi P Krishnasamy
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+0537623921
+Email
+gkrishna@iau.edu.sa
+
+
+
+Mamon Masoud Ibrahim Abdelqader
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Phone
+966591480966
+Email
+mmibrahm@iau.edu.sa
+Fatimah Hazza Alshmarani
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Email
+fhaalshamrani@iau.edu.sa
+Maryam Mohammed Aldossary
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Networks and Communications
+Email
+mmsaldossary@iau.edu.sa
+Elham Binshaflout
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Email
+elhambinshaflout@gmail.com
+Albandary Alamer
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Email
+amalamer@iau.edu.sa
+Mashael Hamad Alkadi
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Phone
+00966-13-333-2019
+Email
+malkadi@iau.edu.sa
+Ghadah ALRugaib
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+00966-13-333-2045
+Email
+gmalrugaib@iau.edu.sa
+Maryam Abdullah Alnasser
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+00966-13-333-2018
+Email
+maalnasser@iau.edu.sa
+Mona Adel Al-binali
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+32039
+Email
+malbinali@iau.edu.sa
+Kholood AlNowaiser
+Position
+Lecturer
+Coordinator-Female Section
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+00966-13-333-2038
+Email
+kkalnowaiser@iau.edu.sa
+
+Khansa Almofeez
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Email
+kaalnefeez@iau.edu.sa
+Wadha Almattar
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Phone
+00966-13-333-2012
+Email
+wmalmattar@iau.edu.sa
+Office
+Room#205
+Rahma Alzahrani
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Phone
+00966-13-333-2041
+Email
+razahrani@iau.edu.sa
+Hussah Albinali
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Email
+halbinali@iau.edu.sa
+Noor AlAkkas
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Email
+nalakkas@iau.edu.sa
+Norah Almubairik
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Phone
+35459
+Email
+naalmubairik@iau.edu.sa
+Atheer Algerairy
+Position
+Lecturer
+Coordinator - Female Section
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Phone
+00966-13-333-2033
+Email
+asalgerairy@iau.edu.sa
+Hina Gull
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
++966-13-333-5455
+Email
+hgull@iau.edu.sa
+Sardar Zafar Iqbal
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+00966-13-333-2010
+Email
+saiqbal@iau.edu.sa
+Office
+4201 - 3
+Mehwash Farooqui
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Engineering
+Email
+mfarooqui@iau.edu.sa
+
+
+Mohammed Salih Ahmed
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Engineering
+Phone
+00966-13-333-2048
+Email
+msAhmed@iau.edu.sa
+Office
+4201-6
+Mohammad Aftab Alam Khan
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Engineering
+Email
+mkhan@iau.edu.sa
+Huda Abdulhadi Alamri
+Position
+Lecturer
+College
+College of Computer Science and Information Technology
+Department
+Computer Engineering
+Email
+haalamri@iau.edu.sa
+Areej Boker
+Position
+Teaching Assistant
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+32030
+Email
+aanbuker@iau.edu.sa
+Reem Abdullah Alshareef
+Position
+Teaching Assistant
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Email
+raalshareef@iau.edu.sa
+Maryam Aldossary
+Position
+Teaching Assistant
+College
+College of Computer Science and Information Technology
+Department
+Networks and Communications
+Email
+mmsaldossary@iau.edu.sa
+Reem Alassaf
+Position
+Teaching Assistant
+College
+College of Computer Science and Information Technology
+Department
+Networks and Communications
+Email
+Raalassaf@iau.edu.sa
+Abdulrahman Almuhaidib
+Position
+Teaching Assistant
+College
+College of Computer Science and Information Technology
+Department
+Networks and Communications
+Email
+asmalmuhaidib@iau.edu.sa
+Thamer Hammad AlJohani
+Position
+Teaching Assistant
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Email
+thsaljohani@iau.edu.sa
+Almajd Mohammed Zunquti
+Position
+Teaching Assistant
+College
+College of Computer Science and Information Technology
+Department
+Networks and Communications
+Email
+amzunquti@iau.edu.sa
+
+
+
+Rawan Hamed Saeed Alghamdi
+Position
+Teaching Assistant
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Phone
+0548765611
+Email
+rhalghamdi@iau.edu.sa
+Reem Abdulrahman Abdullatif AlJunaid
+Position
+Teaching Assistant
+College
+College of Computer Science and Information Technology
+Department
+Computer Science
+Email
+raaljunaid@iau.edu.sa
+Ghadeer Rashed Alazman
+Position
+Teaching Assistant
+College
+College of Computer Science and Information Technology
+Email
+gralazman@iau.edu.sa
+Abdalwahab Almajed
+Position
+Teaching Assistant
+Scholarship
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Email
+analmajed@iau.edu.sa
+Elham Awad Shaflout
+Position
+Teaching Assistant
+College
+College of Computer Science and Information Technology
+Department
+Computer Information Systems
+Email
+eashaflout@iau.edu.sa
+Mohammed Mosuily
+Position
+Teaching Assistant
+Scholarship
+College
+College of Computer Science and Information Technology
+Department
+Computer Engineering
+Email
+mtmosuily@iau.edu.sa
+Saad Alharthi
+Position
+Scholarship
+College
+College of Computer Science and Information Technology
+Department
+Networks and Communications
+Email
+saalharthi@iau.edu.sa
+
+
+--------------------------------------------------------------
+
+As a part of IAU's Alumni and Career Development Center, the College has been committed to follow up on its previous graduates and assist its upcoming graduates through holding various programs and services that aims at preparing them for the labor market. Also, the College consistently works on expanding communication between its graduates to exchange practical and educational life experiences.
+
+Introduction
+The Alumni and Career Development Center is a center that works on preparing the graduate to the practical life, beginning with qualifying and preparing them to the labor market, as well as guiding them to appropriate career opportunities, and ending with promoting intimate and sustainable communication between the alumnus and Imam Abdulrahman bin Faisal University. The center is keen to providing its services in a transparency and committed to the principles of confidentiality, integrity, and equal opportunities for those requesting the services of the Center.
+
+Vision
+To play an active and leading role in establishing career guidance and communication between the University’s current students and alumni.
+
+Mission
+Preparing the graduate in a manner consistent with the requirements of working life and establishing sustainable relations between graduates and the university by providing an integrated set of high-quality services from the beginning of qualifying and preparing the graduate for the labor market to providing alumnus with appropriate job opportunities and building sustainable partnerships with the most prominent employers in the Saudi market.
+
+Objectives
+The Alumni and Career Development Center seeks to fully prepare and support the graduate in his / her professional and career life through a set of the following objectives:
+
+Qualifying and preparing the graduate for the labor market.
+Providing graduates with job opportunities in major companies and institutions.
+Cultivating the spirit of sustainable link between graduates and the university.
+Providing a range of professional consultations for university graduates.
+holding agreements with distinguished employers.
+Follow -up graduates in their career.
+
+--------------------------------------------------------------
+The External Advisory Board plays an important role in achieving the goals of the college. The Board meets at least once at the end of each academic year. Members of the Board offer suggestions on future computing trends, skills required, employability, curriculum development, graduates, innovation, research as well as to ensure that the college's strategic plan is in line with the future vision of the Kingdom.
+
+Members of the External Advisory Board
+Prof. Omer Rana
+Computer Information Systems Expert at Cardiff University, United Kingdom
+Biography>
+Engr. Amr Sherbeeni
+Cybersecurity Consultant, Saudi Aramco, Saudi Arabia
+Biography>
+
+
+
+Engr. Aiman Mufti
+ICT Consultant at Ministry of Health, Saudi Arabia
+Biography>
+--------------------------------------------------------------
+
+Community Service
+Community Service Activities for the Academic Year 2022-2023
+
+Safety5
+Date: 01/09/2022
+Organizers: Dr. Khalid Alissa, Dr.Samiha BRAHIMI, Dr.Abdullah Almuhaideb  , Dr.Yasser Bamarouf, Faiha Bin Rubiaan, Omar Alharby ,Dr. May Aldossary.
+Audience: Public and private  schools
+Hours of Service: 351
+
+A series of awareness sessions against cyber dangers such as cyber bullying and social engineering.  The initiative targeted teenagers in high school and middle schools in the eastern province.
+
+
+--------------------------------------------------------------
+
+Don't throw your computer
+Date: 19/3/2023
+Organizers:  Dr.Yasser Bamarouf , Dr.Samiha BRAHIMI , Lamya alsumait , Zaky Alabbas , Abdulrahman alkhaldi
+Audience: IAU students 
+Hours of Service: 44
+
+A series sustainability-aware campaigns aiming at gathering used computer, refurbish them and donate them to the students with low income in the university. The initiative is in partnership with Irtiqaa charity and the IAU directorate of Community partnerships.
+
+--------------------------------------------------------------
+
+In the College of Computer Science and Information Technology, there are several specialized laboratories and general laboratories, which are equipped with devices and tools that serve the teaching courses.
+
+In addition to the general programming laboratories, there are several specialized laboratories,
+
+Electronics LAB
+Digital LAB
+Network LAB
+Cyber security LAB
+AI LAB
+Mac LAB 
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+
+
+--------------------------------------------------------------
